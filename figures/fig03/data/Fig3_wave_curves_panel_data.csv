@@ -1,0 +1,1729 @@
+row,row_label,stratum,series,metric,spec_id,is_focus,year0,year1,year_plot,vol_annual,vol_annual_M
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2010,2012,2012,63988936.73896268,63.98893673896268
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2012,2014,2014,43685771.23571724,43.68577123571724
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2014,2016,2016,39444136.044349104,39.4441360443491
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2016,2018,2018,34749425.34512438,34.74942534512438
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2018,2020,2020,34418289.14213415,34.41828914213415
+1,Total,AP,Intra-sectoral turnover,turnover_total,S01,False,2020,2022,2022,26838193.232658952,26.838193232658952
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2010,2012,2012,78069390.55778289,78.06939055778288
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2012,2014,2014,56041401.10958422,56.04140110958422
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2014,2016,2016,52592301.49962078,52.59230149962078
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2016,2018,2018,46726575.35321251,46.72657535321251
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2018,2020,2020,45360960.57689856,45.36096057689856
+1,Total,AP,Intra-sectoral turnover,turnover_total,S02,False,2020,2022,2022,34686611.162067994,34.686611162068
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2010,2012,2012,90575903.23327121,90.5759032332712
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2012,2014,2014,67341030.60152777,67.34103060152776
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2014,2016,2016,64806976.033991784,64.80697603399179
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2016,2018,2018,57935089.67505115,57.93508967505115
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2018,2020,2020,55173199.393173635,55.17319939317363
+1,Total,AP,Intra-sectoral turnover,turnover_total,S03,False,2020,2022,2022,41825648.11165764,41.82564811165764
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2010,2012,2012,88840913.13033086,88.84091313033086
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2012,2014,2014,59131608.51042649,59.13160851042649
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2014,2016,2016,49929348.428727314,49.929348428727316
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2016,2018,2018,42115761.60588012,42.11576160588012
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2018,2020,2020,40770354.033609904,40.770354033609905
+1,Total,AP,Intra-sectoral turnover,turnover_total,S04,False,2020,2022,2022,32471719.669465378,32.47171966946538
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2010,2012,2012,102921366.94915107,102.92136694915106
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2012,2014,2014,71487238.3842935,71.48723838429349
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2014,2016,2016,63077513.883999005,63.077513883999
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2016,2018,2018,54092911.613968246,54.09291161396825
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2018,2020,2020,51713025.46837432,51.71302546837432
+1,Total,AP,Intra-sectoral turnover,turnover_total,S05,False,2020,2022,2022,40320137.59887442,40.32013759887442
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2010,2012,2012,115427879.62463936,115.42787962463936
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2012,2014,2014,82786867.87623703,82.78686787623704
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2014,2016,2016,75292188.41837,75.29218841836999
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2016,2018,2018,65301425.935806885,65.30142593580689
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2018,2020,2020,61525264.28464939,61.52526428464939
+1,Total,AP,Intra-sectoral turnover,turnover_total,S06,False,2020,2022,2022,47459174.548464075,47.45917454846408
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2010,2012,2012,7799164.838224566,7.7991648382245655
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2012,2014,2014,6076745.403335604,6.076745403335604
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2014,2016,2016,6490126.467632535,6.4901264676325345
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2016,2018,2018,6946097.359477852,6.946097359477852
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2018,2020,2020,7795979.909139138,7.795979909139137
+1,Total,AP,Intra-sectoral turnover,turnover_total,S19,False,2020,2022,2022,7889888.552273023,7.889888552273023
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2010,2012,2012,15087082.977609375,15.087082977609375
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2012,2014,2014,12562653.891583405,12.562653891583405
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2014,2016,2016,13744106.667455101,13.744106667455101
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2016,2018,2018,13958435.007909447,13.958435007909447
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2018,2020,2020,14375169.380656164,14.375169380656164
+1,Total,AP,Intra-sectoral turnover,turnover_total,S20,False,2020,2022,2022,13710830.726071488,13.710830726071489
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2010,2012,2012,24821462.295651797,24.8214622956518
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2012,2014,2014,21241527.492390208,21.241527492390208
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2014,2016,2016,23457332.395971566,23.457332395971566
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2016,2018,2018,23030087.47053972,23.03008747053972
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2018,2020,2020,22271085.94703825,22.271085947038248
+1,Total,AP,Intra-sectoral turnover,turnover_total,S21,False,2020,2022,2022,20340229.551938266,20.340229551938265
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2010,2012,2012,42341592.987065494,42.341592987065496
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2012,2014,2014,21023985.084342435,21.023985084342435
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2014,2016,2016,14640340.385073483,14.640340385073483
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2016,2018,2018,12453965.189601324,12.453965189601325
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2018,2020,2020,12731604.2309931,12.7316042309931
+1,Total,AP,Intra-sectoral turnover,turnover_total,S22,False,2020,2022,2022,12541805.339749556,12.541805339749557
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2010,2012,2012,47544570.27836345,47.54457027836345
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2012,2014,2014,26846400.03038922,26.84640003038922
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2014,2016,2016,21616066.17619788,21.61606617619788
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2016,2018,2018,19353198.144176774,19.353198144176773
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2018,2020,2020,19273712.07913568,19.273712079135677
+1,Total,AP,Intra-sectoral turnover,turnover_total,S23,True,2020,2022,2022,18362747.513548017,18.362747513548015
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2010,2012,2012,56340978.96882482,56.34097896882482
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2012,2014,2014,35289742.97235051,35.28974297235051
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2014,2016,2016,31310326.97705099,31.31032697705099
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2016,2018,2018,28424850.606807046,28.424850606807045
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2018,2020,2020,27169628.64551777,27.16962864551777
+1,Total,AP,Intra-sectoral turnover,turnover_total,S24,False,2020,2022,2022,24992146.339414794,24.992146339414795
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2010,2012,2012,10828850.431735374,10.828850431735374
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2012,2014,2014,6237023.080673809,6.237023080673809
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2014,2016,2016,3542887.464830956,3.542887464830956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2016,2018,2018,2502888.500449905,2.502888500449905
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2018,2020,2020,1917866.7406351944,1.9178667406351944
+1,Total,AP,Intra-sectoral stayers,stayer_total,S01,False,2020,2022,2022,1760212.2188235717,1.7602122188235716
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2010,2012,2012,10828850.431735374,10.828850431735374
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2012,2014,2014,6237023.080673809,6.237023080673809
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2014,2016,2016,3542887.464830956,3.542887464830956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2016,2018,2018,2502888.500449905,2.502888500449905
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2018,2020,2020,1917866.7406351944,1.9178667406351944
+1,Total,AP,Intra-sectoral stayers,stayer_total,S02,False,2020,2022,2022,1760212.2188235717,1.7602122188235716
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2010,2012,2012,10828850.431735374,10.828850431735374
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2012,2014,2014,6237023.080673809,6.237023080673809
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2014,2016,2016,3542887.464830956,3.542887464830956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2016,2018,2018,2502888.500449905,2.502888500449905
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2018,2020,2020,1917866.7406351944,1.9178667406351944
+1,Total,AP,Intra-sectoral stayers,stayer_total,S03,False,2020,2022,2022,1760212.2188235717,1.7602122188235716
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2010,2012,2012,19214428.191998567,19.214428191998568
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2012,2014,2014,12027328.894695016,12.027328894695016
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2014,2016,2016,7166067.394126529,7.166067394126529
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2016,2018,2018,4976017.421214956,4.976017421214956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2018,2020,2020,3876132.903291452,3.876132903291452
+1,Total,AP,Intra-sectoral stayers,stayer_total,S04,False,2020,2022,2022,3465330.206602232,3.465330206602232
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2010,2012,2012,19214428.191998567,19.214428191998568
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2012,2014,2014,12027328.894695016,12.027328894695016
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2014,2016,2016,7166067.394126529,7.166067394126529
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2016,2018,2018,4976017.421214956,4.976017421214956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2018,2020,2020,3876132.903291452,3.876132903291452
+1,Total,AP,Intra-sectoral stayers,stayer_total,S05,False,2020,2022,2022,3465330.206602232,3.465330206602232
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2010,2012,2012,19214428.191998567,19.214428191998568
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2012,2014,2014,12027328.894695016,12.027328894695016
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2014,2016,2016,7166067.394126529,7.166067394126529
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2016,2018,2018,4976017.421214956,4.976017421214956
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2018,2020,2020,3876132.903291452,3.876132903291452
+1,Total,AP,Intra-sectoral stayers,stayer_total,S06,False,2020,2022,2022,3465330.206602232,3.465330206602232
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2010,2012,2012,496038.25207372906,0.49603825207372904
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2012,2014,2014,198658.8334969965,0.1986588334969965
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2014,2016,2016,108831.21133159164,0.10883121133159164
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2016,2018,2018,106142.02899758743,0.10614202899758743
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2018,2020,2020,77814.68002084535,0.07781468002084535
+1,Total,AP,Intra-sectoral stayers,stayer_total,S19,False,2020,2022,2022,82796.58469343968,0.08279658469343969
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2010,2012,2012,496038.25207372906,0.49603825207372904
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2012,2014,2014,198658.8334969965,0.1986588334969965
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2014,2016,2016,108831.21133159164,0.10883121133159164
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2016,2018,2018,106142.02899758743,0.10614202899758743
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2018,2020,2020,77814.68002084535,0.07781468002084535
+1,Total,AP,Intra-sectoral stayers,stayer_total,S20,False,2020,2022,2022,82796.58469343968,0.08279658469343969
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2010,2012,2012,496038.25207372906,0.49603825207372904
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2012,2014,2014,198658.8334969965,0.1986588334969965
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2014,2016,2016,108831.21133159164,0.10883121133159164
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2016,2018,2018,106142.02899758743,0.10614202899758743
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2018,2020,2020,77814.68002084535,0.07781468002084535
+1,Total,AP,Intra-sectoral stayers,stayer_total,S21,False,2020,2022,2022,82796.58469343968,0.08279658469343969
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2010,2012,2012,10448166.947434057,10.448166947434057
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2012,2014,2014,5159896.0918649845,5.159896091864985
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2014,2016,2016,2757429.8977742116,2.7574298977742115
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2016,2018,2018,1912692.1970803633,1.9126921970803632
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2018,2020,2020,1549312.1929884332,1.5493121929884333
+1,Total,AP,Intra-sectoral stayers,stayer_total,S22,False,2020,2022,2022,1487291.3586546904,1.4872913586546905
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2010,2012,2012,10448166.947434057,10.448166947434057
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2012,2014,2014,5159896.0918649845,5.159896091864985
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2014,2016,2016,2757429.8977742116,2.7574298977742115
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2016,2018,2018,1912692.1970803633,1.9126921970803632
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2018,2020,2020,1549312.1929884332,1.5493121929884333
+1,Total,AP,Intra-sectoral stayers,stayer_total,S23,True,2020,2022,2022,1487291.3586546904,1.4872913586546905
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2010,2012,2012,10448166.947434057,10.448166947434057
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2012,2014,2014,5159896.0918649845,5.159896091864985
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2014,2016,2016,2757429.8977742116,2.7574298977742115
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2016,2018,2018,1912692.1970803633,1.9126921970803632
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2018,2020,2020,1549312.1929884332,1.5493121929884333
+1,Total,AP,Intra-sectoral stayers,stayer_total,S24,False,2020,2022,2022,1487291.3586546904,1.4872913586546905
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2010,2012,2012,10424455.523632236,10.424455523632236
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2012,2014,2014,6793342.624028655,6.7933426240286545
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2014,2016,2016,6229808.03712368,6.22980803712368
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2016,2018,2018,6231063.223282857,6.231063223282857
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2018,2020,2020,6314642.908649203,6.314642908649203
+1,Total,AP,Cross-sectoral movers,mover_total,S01,False,2020,2022,2022,5183551.575865758,5.183551575865757
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2010,2012,2012,13618794.222111639,13.618794222111639
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2012,2014,2014,8834734.82735116,8.834734827351161
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2014,2016,2016,8433112.966749646,8.433112966749645
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2016,2018,2018,8670048.126018366,8.670048126018365
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2018,2020,2020,8524410.609410862,8.524410609410861
+1,Total,AP,Cross-sectoral movers,mover_total,S02,False,2020,2022,2022,6733813.280328148,6.733813280328148
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2010,2012,2012,16320927.189955125,16.320927189955125
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2012,2014,2014,10635391.238125483,10.635391238125482
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2014,2016,2016,10450061.381712262,10.450061381712262
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2016,2018,2018,11039525.050682014,11.039525050682014
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2018,2020,2020,10552531.946893124,10.552531946893124
+1,Total,AP,Cross-sectoral movers,mover_total,S03,False,2020,2022,2022,8153627.2652905425,8.153627265290542
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2010,2012,2012,12750366.395319387,12.750366395319388
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2012,2014,2014,8828558.919611674,8.828558919611673
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2014,2016,2016,7526476.481729701,7.526476481729701
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2016,2018,2018,7282016.63349586,7.28201663349586
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2018,2020,2020,7256422.463331059,7.256422463331059
+1,Total,AP,Cross-sectoral movers,mover_total,S04,False,2020,2022,2022,6263633.528048076,6.263633528048076
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2010,2012,2012,15944705.09379879,15.94470509379879
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2012,2014,2014,10869951.122934181,10.86995112293418
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2014,2016,2016,9729781.411355667,9.729781411355667
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2016,2018,2018,9721001.536231369,9.721001536231368
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2018,2020,2020,9466190.164092716,9.466190164092716
+1,Total,AP,Cross-sectoral movers,mover_total,S05,False,2020,2022,2022,7813895.232510466,7.8138952325104665
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2010,2012,2012,18646838.061642278,18.646838061642278
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2012,2014,2014,12670607.533708502,12.670607533708502
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2014,2016,2016,11746729.826318283,11.746729826318283
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2016,2018,2018,12090478.460895017,12.090478460895017
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2018,2020,2020,11494311.501574978,11.494311501574979
+1,Total,AP,Cross-sectoral movers,mover_total,S06,False,2020,2022,2022,9233709.217472859,9.233709217472859
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2010,2012,2012,1282320.4729609468,1.2823204729609468
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2012,2014,2014,861174.5581210147,0.8611745581210147
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2014,2016,2016,1043130.2970341607,1.0431302970341607
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2016,2018,2018,1557583.6732326727,1.5575836732326727
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2018,2020,2020,1678280.9976212454,1.6782809976212454
+1,Total,AP,Cross-sectoral movers,mover_total,S19,False,2020,2022,2022,1585624.6618169646,1.5856246618169647
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2010,2012,2012,2481507.7035218766,2.4815077035218764
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2012,2014,2014,1758704.0555996771,1.7587040555996771
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2014,2016,2016,2201494.4101040685,2.2014944101040683
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2016,2018,2018,3211146.466269329,3.211146466269329
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2018,2020,2020,3094170.7688649315,3.0941707688649314
+1,Total,AP,Cross-sectoral movers,mover_total,S20,False,2020,2022,2022,2758975.1458347035,2.7589751458347034
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2010,2012,2012,4058756.895105054,4.058756895105054
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2012,2014,2014,2950597.333517517,2.950597333517517
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2014,2016,2016,3742691.5976113155,3.7426915976113158
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2016,2018,2018,5367569.733136711,5.367569733136711
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2018,2020,2020,4787950.60942159,4.78795060942159
+1,Total,AP,Cross-sectoral movers,mover_total,S21,False,2020,2022,2022,4096423.2942772177,4.096423294277217
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2010,2012,2012,7415122.418827383,7.415122418827383
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2012,2014,2014,3368341.63539677,3.3683416353967703
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2014,2016,2016,2261401.0845420747,2.261401084542075
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2016,2018,2018,2445092.0015754597,2.4450920015754596
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2018,2020,2020,2608420.803726308,2.608420803726308
+1,Total,AP,Cross-sectoral movers,mover_total,S22,False,2020,2022,2022,2610670.946008427,2.610670946008427
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2010,2012,2012,8209918.994327983,8.209918994327984
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2012,2014,2014,4136083.5725215524,4.136083572521552
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2014,2016,2016,3378386.7830247693,3.3783867830247694
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2016,2018,2018,4075013.4281790387,4.075013428179039
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2018,2020,2020,4015556.206534197,4.015556206534197
+1,Total,AP,Cross-sectoral movers,mover_total,S23,True,2020,2022,2022,3784021.4300261647,3.7840214300261645
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2010,2012,2012,9599835.976833446,9.599835976833447
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2012,2014,2014,5275896.471605927,5.275896471605927
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2014,2016,2016,4917408.724929805,4.917408724929805
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2016,2018,2018,6231436.69504642,6.23143669504642
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2018,2020,2020,5709336.047090856,5.709336047090856
+1,Total,AP,Cross-sectoral movers,mover_total,S24,False,2020,2022,2022,5121469.578468679,5.1214695784686795
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2010,2012,2012,126427872.1067962,126.4278721067962
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2012,2014,2014,143986610.9453621,143.9866109453621
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2014,2016,2016,150523187.3217156,150.5231873217156
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2016,2018,2018,147859295.16791353,147.85929516791353
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2018,2020,2020,147497149.72464174,147.49714972464173
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S01,False,2020,2022,2022,141667496.9924513,141.6674969924513
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2010,2012,2012,206057269.28184104,206.05726928184103
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2012,2014,2014,223814170.9237175,223.8141709237175
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2014,2016,2016,228478659.01532814,228.47865901532813
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2016,2018,2018,221521333.4774438,221.52133347744382
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2018,2020,2020,216295542.32092294,216.29554232092295
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S02,False,2020,2022,2022,203666488.97018892,203.6664889701889
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2010,2012,2012,278697696.3574554,278.69769635745536
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2012,2014,2014,298973704.85881865,298.9737048588187
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2014,2016,2016,303477218.23714244,303.47721823714244
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2016,2018,2018,293818506.8782706,293.8185068782706
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2018,2020,2020,283287904.5798037,283.2879045798037
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S03,False,2020,2022,2022,263282152.74622095,263.28215274622096
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2010,2012,2012,89168590.84299019,89.16859084299018
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2012,2014,2014,119266463.30367433,119.26646330367433
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2014,2016,2016,134040566.44241495,134.04056644241496
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2016,2018,2018,137156298.07145584,137.15629807145584
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2018,2020,2020,139092331.62839144,139.09233162839143
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S04,False,2020,2022,2022,134571671.17781135,134.57167117781137
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2010,2012,2012,168797988.0180351,168.7979880180351
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2012,2014,2014,199094023.28202975,199.09402328202975
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2014,2016,2016,211996038.13602751,211.99603813602752
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2016,2018,2018,210818336.3809861,210.8183363809861
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2018,2020,2020,207890724.22467265,207.89072422467265
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S05,False,2020,2022,2022,196570663.15554893,196.57066315554894
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2010,2012,2012,241438415.0936494,241.43841509364938
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2012,2014,2014,274253557.21713084,274.25355721713083
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2014,2016,2016,286994597.35784173,286.9945973578417
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2016,2018,2018,283115509.78181285,283.1155097818128
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2018,2020,2020,274883086.48355347,274.8830864835535
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S06,False,2020,2022,2022,256186326.931581,256.186326931581
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2010,2012,2012,38367858.83158684,38.36785883158684
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2012,2014,2014,39521731.49768107,39.52173149768107
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2014,2016,2016,40958402.46545438,40.95840246545438
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2016,2018,2018,46517832.92443378,46.51783292443378
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2018,2020,2020,59811778.13747647,59.811778137476466
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S19,False,2020,2022,2022,68924865.7262502,68.9248657262502
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2010,2012,2012,86044188.33376622,86.04418833376623
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2012,2014,2014,87713170.34374353,87.71317034374353
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2014,2016,2016,90741626.45103128,90.74162645103128
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2016,2018,2018,98144111.98136277,98.14411198136277
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2018,2020,2020,114105552.95121576,114.10555295121576
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S20,False,2020,2022,2022,122886319.07590221,122.88631907590221
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2010,2012,2012,149813418.42645562,149.81341842645563
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2012,2014,2014,152608193.9554212,152.6081939554212
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2014,2016,2016,157886075.14082006,157.88607514082005
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2016,2018,2018,165891682.05108178,165.89168205108177
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2018,2020,2020,180089936.86365128,180.08993686365127
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S21,False,2020,2022,2022,184676015.74344045,184.67601574344044
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2010,2012,2012,16531815.541062813,16.531815541062812
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2012,2014,2014,23816847.909024864,23.816847909024865
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2014,2016,2016,30703232.721557647,30.703232721557647
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2016,2018,2018,39320067.21090282,39.32006721090282
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2018,2020,2020,53631580.17209074,53.631580172090736
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S22,False,2020,2022,2022,63096299.4425879,63.0962994425879
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2010,2012,2012,51005426.07743372,51.00542607743372
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2012,2014,2014,67942715.10947846,67.94271510947846
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2014,2016,2016,78806853.37946545,78.80685337946545
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2016,2018,2018,90288659.77350187,90.28865977350188
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2018,2020,2020,107713055.51829892,107.71305551829893
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S23,True,2020,2022,2022,117057752.79223989,117.0577527922399
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2010,2012,2012,109348438.10824093,109.34843810824093
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2012,2014,2014,131420117.1746538,131.4201171746538
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2014,2016,2016,145825921.01534736,145.82592101534735
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2016,2018,2018,158036229.84322086,158.03622984322087
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2018,2020,2020,173697439.4307344,173.6974394307344
+1,Total,RPO,Intra-sectoral turnover,turnover_total,S24,False,2020,2022,2022,178847449.45977816,178.84744945977815
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2010,2012,2012,11090964.751953805,11.090964751953805
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2012,2014,2014,12646672.911104491,12.64667291110449
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2014,2016,2016,10160437.304340206,10.160437304340206
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2016,2018,2018,13129650.685622197,13.129650685622197
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2018,2020,2020,16868523.9088009,16.8685239088009
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S01,False,2020,2022,2022,22755600.758974265,22.755600758974264
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2010,2012,2012,18860125.212432753,18.860125212432752
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2012,2014,2014,20104876.362142306,20.104876362142306
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2014,2016,2016,16063555.742678355,16.063555742678357
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2016,2018,2018,20226468.916846402,20.2264689168464
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2018,2020,2020,25747492.81050729,25.74749281050729
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S02,False,2020,2022,2022,33586040.05359837,33.58604005359837
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2010,2012,2012,26100984.298359375,26.100984298359375
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2012,2014,2014,27580254.97838626,27.58025497838626
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2014,2016,2016,22308450.627924655,22.308450627924653
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2016,2018,2018,27587059.48580146,27.587059485801458
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2018,2020,2020,34989970.95093855,34.989970950938556
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S03,False,2020,2022,2022,44375947.08948523,44.37594708948523
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2010,2012,2012,6906863.807498319,6.906863807498319
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2012,2014,2014,10457430.031847682,10.457430031847682
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2014,2016,2016,9017845.281790543,9.017845281790544
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2016,2018,2018,12076696.11726103,12.07669611726103
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2018,2020,2020,15839950.354223011,15.839950354223012
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S04,False,2020,2022,2022,21472257.221223146,21.472257221223146
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2010,2012,2012,14676024.26797727,14.676024267977269
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2012,2014,2014,17915633.4828855,17.9156334828855
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2014,2016,2016,14920963.72012869,14.920963720128691
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2016,2018,2018,19173514.348485235,19.173514348485234
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2018,2020,2020,24718919.255929396,24.718919255929396
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S05,False,2020,2022,2022,32302696.515847255,32.30269651584725
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2010,2012,2012,21916883.35390389,21.91688335390389
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2012,2014,2014,25391012.099129446,25.391012099129444
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2014,2016,2016,21165858.605374992,21.165858605374993
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2016,2018,2018,26534104.917440295,26.534104917440295
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2018,2020,2020,33961397.396360666,33.96139739636067
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S06,False,2020,2022,2022,43092603.55173412,43.09260355173412
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2010,2012,2012,4298628.766173167,4.2986287661731675
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2012,2014,2014,4645207.986043226,4.645207986043226
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2014,2016,2016,4178064.0217942684,4.178064021794269
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2016,2018,2018,5102799.109883302,5.102799109883302
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2018,2020,2020,9278841.683474332,9.278841683474331
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S19,False,2020,2022,2022,13104744.952679114,13.104744952679114
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2010,2012,2012,9721697.219957128,9.721697219957129
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2012,2014,2014,10452051.438752444,10.452051438752445
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2014,2016,2016,9452149.687733864,9.452149687733865
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2016,2018,2018,11058922.683349345,11.058922683349344
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2018,2020,2020,17847192.120853424,17.847192120853425
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S20,False,2020,2022,2022,23461945.35361377,23.46194535361377
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2010,2012,2012,16968117.577198572,16.968117577198573
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2012,2014,2014,18344553.38944335,18.344553389443348
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2014,2016,2016,16662543.16664463,16.662543166644628
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2016,2018,2018,19013787.277395934,19.013787277395934
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2018,2020,2020,28329244.19521495,28.32924419521495
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S21,False,2020,2022,2022,35354474.04654737,35.35447404654737
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2010,2012,2012,1588432.6436187476,1.5884326436187477
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2012,2014,2014,3013584.9201156544,3.013584920115654
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2014,2016,2016,3368304.0089586885,3.3683040089586886
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2016,2018,2018,4375814.4825270595,4.375814482527059
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2018,2020,2020,8465087.32900359,8.46508732900359
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S22,False,2020,2022,2022,12021289.686729245,12.021289686729245
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2010,2012,2012,5190273.832205764,5.190273832205764
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2012,2014,2014,8488537.700579248,8.488537700579249
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2014,2016,2016,8532876.874958979,8.53287687495898
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2016,2018,2018,10272394.201778956,10.272394201778956
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2018,2020,2020,17012871.08767305,17.012871087673048
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S23,True,2020,2022,2022,22378490.087663896,22.378490087663895
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2010,2012,2012,11726909.581981929,11.726909581981928
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2012,2014,2014,16271478.21221653,16.27147821221653
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2014,2016,2016,15735036.37989951,15.73503637989951
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2016,2018,2018,18227258.79582555,18.22725879582555
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2018,2020,2020,27494923.162034575,27.494923162034574
+1,Total,RPO,Intra-sectoral stayers,stayer_total,S24,False,2020,2022,2022,34271018.78059749,34.271018780597494
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2010,2012,2012,13345579.521716772,13.345579521716772
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2012,2014,2014,16046606.764195435,16.046606764195435
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2014,2016,2016,20861606.83535983,20.86160683535983
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2016,2018,2018,22678790.298634782,22.678790298634784
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2018,2020,2020,24252797.092258323,24.252797092258323
+1,Total,RPO,Cross-sectoral movers,mover_total,S01,False,2020,2022,2022,28203258.52747708,28.20325852747708
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2010,2012,2012,22425529.501399335,22.425529501399335
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2012,2014,2014,25919888.0095597,25.9198880095597
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2014,2016,2016,32168280.246331207,32.16828024633121
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2016,2018,2018,35719947.40482409,35.71994740482409
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2018,2020,2020,37950053.67446716,37.95005367446716
+1,Total,RPO,Cross-sectoral movers,mover_total,S02,False,2020,2022,2022,42195256.15783569,42.19525615783569
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2010,2012,2012,31111262.24227977,31.11126224227977
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2012,2014,2014,35922272.6303622,35.9222726303622
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2014,2016,2016,43485785.73715201,43.48578573715201
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2016,2018,2018,49698982.04430908,49.698982044309076
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2018,2020,2020,52604334.07097505,52.60433407097505
+1,Total,RPO,Cross-sectoral movers,mover_total,S03,False,2020,2022,2022,56457451.60214493,56.45745160214493
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2010,2012,2012,9001370.102617389,9.001370102617388
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2012,2014,2014,13022899.467855053,13.022899467855053
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2014,2016,2016,18561195.445867807,18.561195445867806
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2016,2018,2018,21192500.006138183,21.192500006138182
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2018,2020,2020,23062568.833463196,23.062568833463196
+1,Total,RPO,Cross-sectoral movers,mover_total,S04,False,2020,2022,2022,26918100.96895256,26.918100968952558
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2010,2012,2012,18081320.08229995,18.08132008229995
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2012,2014,2014,22896180.713219322,22.896180713219323
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2014,2016,2016,29867868.856839195,29.867868856839195
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2016,2018,2018,34233657.112327494,34.23365711232749
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2018,2020,2020,36759825.415672034,36.75982541567203
+1,Total,RPO,Cross-sectoral movers,mover_total,S05,False,2020,2022,2022,40910098.59931118,40.91009859931118
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2010,2012,2012,26767052.823180392,26.767052823180393
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2012,2014,2014,32898565.33402181,32.89856533402181
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2014,2016,2016,41185374.34765999,41.18537434765999
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2016,2018,2018,48212691.75181247,48.21269175181247
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2018,2020,2020,51414105.81217993,51.41410581217993
+1,Total,RPO,Cross-sectoral movers,mover_total,S06,False,2020,2022,2022,55172294.04362041,55.172294043620404
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2010,2012,2012,5394035.058638043,5.394035058638043
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2012,2014,2014,6350182.31179478,6.35018231179478
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2014,2016,2016,6726430.8174730055,6.726430817473005
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2016,2018,2018,10673372.092250416,10.673372092250416
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2018,2020,2020,15732587.566915458,15.732587566915457
+1,Total,RPO,Cross-sectoral movers,mover_total,S19,False,2020,2022,2022,17922818.100741517,17.922818100741516
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2010,2012,2012,12191465.759969702,12.191465759969702
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2012,2014,2014,14330341.837338725,14.330341837338725
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2014,2016,2016,15076025.662454799,15.076025662454798
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2016,2018,2018,22858307.229007997,22.858307229008
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2018,2020,2020,29893915.267123036,29.893915267123035
+1,Total,RPO,Cross-sectoral movers,mover_total,S20,False,2020,2022,2022,32110430.789827324,32.110430789827326
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2010,2012,2012,21329225.222847663,21.32922522284766
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2012,2014,2014,25198526.735204294,25.198526735204293
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2014,2016,2016,26424710.53202236,26.42471053202236
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2016,2018,2018,38972506.2587827,38.9725062587827
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2018,2020,2020,47052663.60456337,47.05266360456337
+1,Total,RPO,Cross-sectoral movers,mover_total,S21,False,2020,2022,2022,48414410.193426475,48.41441019342648
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2010,2012,2012,2529314.7243976863,2.529314724397686
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2012,2014,2014,4251149.966919746,4.251149966919746
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2014,2016,2016,5254490.802986964,5.254490802986964
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2016,2018,2018,9651067.12390469,9.65106712390469
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2018,2020,2020,14721324.197378255,14.721324197378255
+1,Total,RPO,Cross-sectoral movers,mover_total,S22,False,2020,2022,2022,16810648.660811655,16.810648660811655
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2010,2012,2012,7568073.683318727,7.568073683318727
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2012,2014,2014,11713696.17097286,11.71369617097286
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2014,2016,2016,13372743.49789859,13.37274349789859
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2016,2018,2018,21732407.97682199,21.73240797682199
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2018,2020,2020,28846177.976474524,28.846177976474525
+1,Total,RPO,Cross-sectoral movers,mover_total,S23,True,2020,2022,2022,30998261.349897463,30.99826134989746
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2010,2012,2012,16030837.406606698,16.030837406606697
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2012,2014,2014,22374789.718082555,22.374789718082553
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2014,2016,2016,24703924.42287454,24.70392442287454
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2016,2018,2018,37846607.0065967,37.8466070065967
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2018,2020,2020,46004926.31391486,46.00492631391486
+1,Total,RPO,Cross-sectoral movers,mover_total,S24,False,2020,2022,2022,47302240.75349661,47.30224075349661
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2010,2012,2012,1637603.4432798233,1.6376034432798232
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2012,2014,2014,2846917.474924386,2.846917474924386
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2014,2016,2016,1412261.8784147499,1.4122618784147498
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2016,2018,2018,3143740.0709657506,3.143740070965751
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2018,2020,2020,3103861.1620242083,3.1038611620242085
+2,Urban,AP,IS-entrants,IS_N_urban,S01,False,2020,2022,2022,2019915.2494718372,2.019915249471837
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2010,2012,2012,2856328.4236852317,2.8563284236852318
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2012,2014,2014,4619177.036335498,4.619177036335498
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2014,2016,2016,2282233.939760065,2.282233939760065
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2016,2018,2018,4826731.935484646,4.826731935484646
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2018,2020,2020,4632941.90485274,4.632941904852739
+2,Urban,AP,IS-entrants,IS_N_urban,S02,False,2020,2022,2022,3024977.6911241673,3.0249776911241675
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2010,2012,2012,4046055.4763944647,4.046055476394465
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2012,2014,2014,6388248.483146241,6.388248483146241
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2014,2016,2016,3231485.933559764,3.2314859335597643
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2016,2018,2018,6545783.450243846,6.545783450243846
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2018,2020,2020,6190927.321487222,6.190927321487222
+2,Urban,AP,IS-entrants,IS_N_urban,S03,False,2020,2022,2022,4067697.750042402,4.067697750042402
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2010,2012,2012,1078465.7812924671,1.0784657812924672
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2012,2014,2014,2299596.8404833567,2.299596840483357
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2014,2016,2016,1257092.633886891,1.2570926338868909
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2016,2018,2018,2946698.820688922,2.9466988206889217
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2018,2020,2020,3143069.7741020937,3.1430697741020936
+2,Urban,AP,IS-entrants,IS_N_urban,S04,False,2020,2022,2022,2126859.1883092634,2.1268591883092633
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2010,2012,2012,2297190.761697876,2.297190761697876
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2012,2014,2014,4071856.4018944697,4.07185640189447
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2014,2016,2016,2127064.695232206,2.127064695232206
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2016,2018,2018,4629690.685207818,4.629690685207818
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2018,2020,2020,4672150.516930624,4.672150516930624
+2,Urban,AP,IS-entrants,IS_N_urban,S05,False,2020,2022,2022,3131921.629961593,3.1319216299615933
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2010,2012,2012,3486917.814407109,3.486917814407109
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2012,2014,2014,5840927.848705212,5.840927848705212
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2014,2016,2016,3076316.6890319046,3.0763166890319047
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2016,2018,2018,6348742.1999670165,6.348742199967017
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2018,2020,2020,6230135.933565108,6.2301359335651085
+2,Urban,AP,IS-entrants,IS_N_urban,S06,False,2020,2022,2022,4174641.688879827,4.174641688879827
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2010,2012,2012,860748.5446483793,0.8607485446483794
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2012,2014,2014,1125822.2587515274,1.1258222587515274
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2014,2016,2016,683773.2338768038,0.6837732338768038
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2016,2018,2018,1060994.906146143,1.060994906146143
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2018,2020,2020,1196178.4042963798,1.1961784042963797
+2,Urban,AP,IS-entrants,IS_N_urban,S19,False,2020,2022,2022,1288812.8098689541,1.2888128098689542
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2010,2012,2012,1918580.779674313,1.918580779674313
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2012,2014,2014,2547084.752305996,2.547084752305996
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2014,2016,2016,1544889.5747215578,1.5448895747215579
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2016,2018,2018,2393534.090432292,2.3935340904322917
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2018,2020,2020,2426941.5345901987,2.4269415345901986
+2,Urban,AP,IS-entrants,IS_N_urban,S20,False,2020,2022,2022,2342507.3426094493,2.342507342609449
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2010,2012,2012,3326213.4769806513,3.326213476980651
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2012,2014,2014,4486797.237783816,4.486797237783816
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2014,2016,2016,2720655.620929728,2.720655620929728
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2016,2018,2018,4216989.399415117,4.216989399415117
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2018,2020,2020,4002442.145041375,4.002442145041375
+2,Urban,AP,IS-entrants,IS_N_urban,S21,False,2020,2022,2022,3568792.2839935995,3.5687922839935995
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2010,2012,2012,1804702.446913025,1.804702446913025
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2012,2014,2014,1278460.921753434,1.278460921753434
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2014,2016,2016,706988.8224307764,0.7069888224307764
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2016,2018,2018,1114736.205854779,1.1147362058547792
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2018,2020,2020,1566008.2612097964,1.5660082612097965
+2,Urban,AP,IS-entrants,IS_N_urban,S22,False,2020,2022,2022,1600270.0885753364,1.6002700885753365
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2010,2012,2012,2484909.508470999,2.484909508470999
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2012,2014,2014,2587044.986345022,2.587044986345022
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2014,2016,2016,1546720.7308973956,1.5467207308973956
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2016,2018,2018,2428952.142666759,2.428952142666759
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2018,2020,2020,2788017.0230678185,2.7880170230678183
+2,Urban,AP,IS-entrants,IS_N_urban,S23,True,2020,2022,2022,2653964.6213158322,2.6539646213158323
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2010,2012,2012,3767938.8570608757,3.7679388570608756
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2012,2014,2014,4475788.857137825,4.475788857137825
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2014,2016,2016,2720311.531503354,2.7203115315033544
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2016,2018,2018,4252407.451649583,4.252407451649583
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2018,2020,2020,4363517.633518995,4.3635176335189945
+2,Urban,AP,IS-entrants,IS_N_urban,S24,False,2020,2022,2022,3880249.562699981,3.880249562699981
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2010,2012,2012,4572043.02196457,4.57204302196457
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2012,2014,2014,1473780.2051546713,1.4737802051546713
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2014,2016,2016,3748771.435766283,3.748771435766283
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2016,2018,2018,2243324.0226858766,2.2433240226858766
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2018,2020,2020,2845324.6259169076,2.8453246259169074
+2,Urban,AP,IS-exiters,IS_E_urban,S01,False,2020,2022,2022,3440256.329193023,3.440256329193023
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2010,2012,2012,7466392.668286357,7.466392668286357
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2012,2014,2014,2605852.579335334,2.605852579335334
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2014,2016,2016,6096278.910735382,6.096278910735382
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2016,2018,2018,3678637.546230255,3.678637546230255
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2018,2020,2020,4242639.806113461,4.242639806113461
+2,Urban,AP,IS-exiters,IS_E_urban,S02,False,2020,2022,2022,5083127.639687484,5.0831276396874845
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2010,2012,2012,10504011.655914309,10.504011655914308
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2012,2014,2014,4044486.634056286,4.044486634056286
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2014,2016,2016,8775878.156053524,8.775878156053524
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2016,2018,2018,5330202.056639139,5.330202056639139
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2018,2020,2020,5651060.2064181985,5.651060206418198
+2,Urban,AP,IS-exiters,IS_E_urban,S03,False,2020,2022,2022,6768337.433373101,6.768337433373101
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2010,2012,2012,4125061.550130436,4.125061550130436
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2012,2014,2014,1455406.4400262428,1.4554064400262428
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2014,2016,2016,3516143.610037907,3.516143610037907
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2016,2018,2018,2149748.104653337,2.149748104653337
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2018,2020,2020,2759582.9686951553,2.759582968695155
+2,Urban,AP,IS-exiters,IS_E_urban,S04,False,2020,2022,2022,3501121.4065827085,3.5011214065827083
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2010,2012,2012,7019411.196452225,7.019411196452225
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2012,2014,2014,2587478.8142069057,2.587478814206906
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2014,2016,2016,5863651.085007006,5.863651085007007
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2016,2018,2018,3585061.628197716,3.585061628197716
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2018,2020,2020,4156898.148891708,4.156898148891708
+2,Urban,AP,IS-exiters,IS_E_urban,S05,False,2020,2022,2022,5143992.71707717,5.14399271707717
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2010,2012,2012,10057030.184080174,10.057030184080174
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2012,2014,2014,4026112.8689278564,4.026112868927856
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2014,2016,2016,8543250.330325149,8.543250330325149
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2016,2018,2018,5236626.1386066,5.2366261386066
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2018,2020,2020,5565318.549196446,5.565318549196446
+2,Urban,AP,IS-exiters,IS_E_urban,S06,False,2020,2022,2022,6829202.510762786,6.829202510762785
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2010,2012,2012,2320162.196222985,2.3201621962229853
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2012,2014,2014,1319216.826273509,1.3192168262735091
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2014,2016,2016,1955862.447745633,1.955862447745633
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2016,2018,2018,1530041.298120524,1.530041298120524
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2018,2020,2020,1655037.0427734554,1.6550370427734553
+2,Urban,AP,IS-exiters,IS_E_urban,S19,False,2020,2022,2022,2269210.389537609,2.269210389537609
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2010,2012,2012,5088209.400362777,5.088209400362777
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2012,2014,2014,2999534.9634854565,2.9995349634854565
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2014,2016,2016,4515000.56321305,4.51500056321305
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2016,2018,2018,3177185.6589430184,3.1771856589430185
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2018,2020,2020,3017220.0304827173,3.0172200304827173
+2,Urban,AP,IS-exiters,IS_E_urban,S20,False,2020,2022,2022,3981939.7441886025,3.9819397441886024
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2010,2012,2012,8883952.159711216,8.883952159711216
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2012,2014,2014,5314863.022752039,5.314863022752039
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2014,2016,2016,8065201.8894119235,8.065201889411924
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2016,2018,2018,5308975.690811537,5.308975690811537
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2018,2020,2020,4602111.972969085,4.602111972969085
+2,Urban,AP,IS-exiters,IS_E_urban,S21,False,2020,2022,2022,5922965.338133938,5.922965338133937
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2010,2012,2012,8625594.01544521,8.62559401544521
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2012,2014,2014,3208033.413279907,3.2080334132799067
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2014,2016,2016,2444694.2825208744,2.4446942825208744
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2016,2018,2018,1617557.573455486,1.617557573455486
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2018,2020,2020,1737671.3291498055,1.7376713291498054
+2,Urban,AP,IS-exiters,IS_E_urban,S22,False,2020,2022,2022,2596202.686309089,2.596202686309089
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2010,2012,2012,11222916.183180504,11.222916183180503
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2012,2014,2014,4869860.286934329,4.869860286934329
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2014,2016,2016,4983716.223111039,4.983716223111039
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2016,2018,2018,3259383.8153190725,3.2593838153190724
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2018,2020,2020,3099854.3168590665,3.0998543168590666
+2,Urban,AP,IS-exiters,IS_E_urban,S23,True,2020,2022,2022,4308932.040960082,4.308932040960082
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2010,2012,2012,14941196.38452015,14.94119638452015
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2012,2014,2014,7183336.659550284,7.183336659550284
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2014,2016,2016,8533917.549309911,8.533917549309912
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2016,2018,2018,5391173.847187592,5.391173847187591
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2018,2020,2020,4684746.259345434,4.684746259345434
+2,Urban,AP,IS-exiters,IS_E_urban,S24,False,2020,2022,2022,6249957.6349054165,6.2499576349054164
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2010,2012,2012,54752.21571946568,0.05475221571946568
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2012,2014,2014,14659.972768713793,0.014659972768713793
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2014,2016,2016,8396.44537576319,0.00839644537576319
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2016,2018,2018,8807.522947500656,0.008807522947500656
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2018,2020,2020,39052.26355197172,0.03905226355197172
+2,Urban,AP,IS-stayers,stay_urban,S01,False,2020,2022,2022,61955.84829492813,0.06195584829492813
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2010,2012,2012,54752.21571946568,0.05475221571946568
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2012,2014,2014,14659.972768713793,0.014659972768713793
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2014,2016,2016,8396.44537576319,0.00839644537576319
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2016,2018,2018,8807.522947500656,0.008807522947500656
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2018,2020,2020,39052.26355197172,0.03905226355197172
+2,Urban,AP,IS-stayers,stay_urban,S02,False,2020,2022,2022,61955.84829492813,0.06195584829492813
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2010,2012,2012,54752.21571946568,0.05475221571946568
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2012,2014,2014,14659.972768713793,0.014659972768713793
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2014,2016,2016,8396.44537576319,0.00839644537576319
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2016,2018,2018,8807.522947500656,0.008807522947500656
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2018,2020,2020,39052.26355197172,0.03905226355197172
+2,Urban,AP,IS-stayers,stay_urban,S03,False,2020,2022,2022,61955.84829492813,0.06195584829492813
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2010,2012,2012,208257.75461715524,0.20825775461715523
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2012,2014,2014,63499.60592697353,0.06349960592697353
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2014,2016,2016,36509.50796259391,0.03650950796259391
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2016,2018,2018,32129.734554489776,0.032129734554489774
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2018,2020,2020,115594.372280937,0.115594372280937
+2,Urban,AP,IS-stayers,stay_urban,S04,False,2020,2022,2022,174220.64451998207,0.17422064451998207
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2010,2012,2012,208257.75461715524,0.20825775461715523
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2012,2014,2014,63499.60592697353,0.06349960592697353
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2014,2016,2016,36509.50796259391,0.03650950796259391
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2016,2018,2018,32129.734554489776,0.032129734554489774
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2018,2020,2020,115594.372280937,0.115594372280937
+2,Urban,AP,IS-stayers,stay_urban,S05,False,2020,2022,2022,174220.64451998207,0.17422064451998207
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2010,2012,2012,208257.75461715524,0.20825775461715523
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2012,2014,2014,63499.60592697353,0.06349960592697353
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2014,2016,2016,36509.50796259391,0.03650950796259391
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2016,2018,2018,32129.734554489776,0.032129734554489774
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2018,2020,2020,115594.372280937,0.115594372280937
+2,Urban,AP,IS-stayers,stay_urban,S06,False,2020,2022,2022,174220.64451998207,0.17422064451998207
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2010,2012,2012,42074.58097604618,0.042074580976046175
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2012,2014,2014,5400.381261679696,0.005400381261679696
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2014,2016,2016,1538.9017531120217,0.0015389017531120216
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2016,2018,2018,978.8160323574308,0.0009788160323574307
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2018,2020,2020,3730.578458142992,0.003730578458142992
+2,Urban,AP,IS-stayers,stay_urban,S19,False,2020,2022,2022,5738.931598242254,0.005738931598242254
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2010,2012,2012,42074.58097604618,0.042074580976046175
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2012,2014,2014,5400.381261679696,0.005400381261679696
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2014,2016,2016,1538.9017531120217,0.0015389017531120216
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2016,2018,2018,978.8160323574308,0.0009788160323574307
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2018,2020,2020,3730.578458142992,0.003730578458142992
+2,Urban,AP,IS-stayers,stay_urban,S20,False,2020,2022,2022,5738.931598242254,0.005738931598242254
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2010,2012,2012,42074.58097604618,0.042074580976046175
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2012,2014,2014,5400.381261679696,0.005400381261679696
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2014,2016,2016,1538.9017531120217,0.0015389017531120216
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2016,2018,2018,978.8160323574308,0.0009788160323574307
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2018,2020,2020,3730.578458142992,0.003730578458142992
+2,Urban,AP,IS-stayers,stay_urban,S21,False,2020,2022,2022,5738.931598242254,0.005738931598242254
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2010,2012,2012,2242635.483843446,2.2426354838434457
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2012,2014,2014,597866.2150046757,0.5978662150046756
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2014,2016,2016,208683.43827204168,0.20868343827204167
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2016,2018,2018,85353.76669957713,0.08535376669957713
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2018,2020,2020,179879.88236952925,0.17987988236952926
+2,Urban,AP,IS-stayers,stay_urban,S22,False,2020,2022,2022,230705.49121667852,0.23070549121667852
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2010,2012,2012,2242635.483843446,2.2426354838434457
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2012,2014,2014,597866.2150046757,0.5978662150046756
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2014,2016,2016,208683.43827204168,0.20868343827204167
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2016,2018,2018,85353.76669957713,0.08535376669957713
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2018,2020,2020,179879.88236952925,0.17987988236952926
+2,Urban,AP,IS-stayers,stay_urban,S23,True,2020,2022,2022,230705.49121667852,0.23070549121667852
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2010,2012,2012,2242635.483843446,2.2426354838434457
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2012,2014,2014,597866.2150046757,0.5978662150046756
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2014,2016,2016,208683.43827204168,0.20868343827204167
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2016,2018,2018,85353.76669957713,0.08535376669957713
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2018,2020,2020,179879.88236952925,0.17987988236952926
+2,Urban,AP,IS-stayers,stay_urban,S24,False,2020,2022,2022,230705.49121667852,0.23070549121667852
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2010,2012,2012,2511080.4116882114,2.5110804116882113
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2012,2014,2014,3111784.132243514,3.111784132243514
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2014,2016,2016,4061537.3139399076,4.061537313939907
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2016,2018,2018,8317194.724897415,8.317194724897416
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2018,2020,2020,14439525.544060515,14.439525544060515
+2,Urban,RPO,IS-entrants,IS_N_urban,S01,False,2020,2022,2022,16368397.511330066,16.368397511330066
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2010,2012,2012,6983393.351895043,6.983393351895042
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2012,2014,2014,8218705.918976336,8.218705918976335
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2014,2016,2016,10461653.000096004,10.461653000096005
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2016,2018,2018,17925370.86861416,17.92537086861416
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2018,2020,2020,26734807.625641756,26.734807625641757
+2,Urban,RPO,IS-entrants,IS_N_urban,S02,False,2020,2022,2022,29262119.04980284,29.26211904980284
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2010,2012,2012,14455587.84862802,14.45558784862802
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2012,2014,2014,16444191.82288205,16.44419182288205
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2014,2016,2016,20607118.98484441,20.60711898484441
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2016,2018,2018,31303241.26557307,31.30324126557307
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2018,2020,2020,41675425.93624772,41.67542593624772
+2,Urban,RPO,IS-entrants,IS_N_urban,S03,False,2020,2022,2022,44488977.619315386,44.488977619315385
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2010,2012,2012,2398959.2794741,2.3989592794741
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2012,2014,2014,3059633.5517973285,3.0596335517973285
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2014,2016,2016,4091431.7392202658,4.0914317392202655
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2016,2018,2018,8433590.26165661,8.43359026165661
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2018,2020,2020,14267260.25682966,14.26726025682966
+2,Urban,RPO,IS-entrants,IS_N_urban,S04,False,2020,2022,2022,16206897.449207224,16.206897449207222
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2010,2012,2012,6871272.2196809305,6.871272219680931
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2012,2014,2014,8166555.33853015,8.16655533853015
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2014,2016,2016,10491547.425376363,10.491547425376362
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2016,2018,2018,18041766.40537335,18.041766405373348
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2018,2020,2020,26562542.3384109,26.5625423384109
+2,Urban,RPO,IS-entrants,IS_N_urban,S05,False,2020,2022,2022,29100618.987680007,29.100618987680008
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2010,2012,2012,14343466.71641391,14.343466716413909
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2012,2014,2014,16392041.242435861,16.392041242435862
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2014,2016,2016,20637013.41012477,20.637013410124773
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2016,2018,2018,31419636.802332256,31.419636802332256
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2018,2020,2020,41503160.64901686,41.503160649016856
+2,Urban,RPO,IS-entrants,IS_N_urban,S06,False,2020,2022,2022,44327477.55719255,44.32747755719255
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2010,2012,2012,9423552.535802666,9.423552535802665
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2012,2014,2014,9370242.051376808,9.370242051376808
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2014,2016,2016,10114478.622328872,10.114478622328871
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2016,2018,2018,15364506.339038014,15.364506339038014
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2018,2020,2020,22259725.773339387,22.259725773339387
+2,Urban,RPO,IS-entrants,IS_N_urban,S19,False,2020,2022,2022,23821480.03471084,23.821480034710838
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2010,2012,2012,22064234.787199832,22.064234787199833
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2012,2014,2014,21726996.391323946,21.726996391323947
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2014,2016,2016,24150852.03595146,24.150852035951463
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2016,2018,2018,32429910.104999296,32.429910104999294
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2018,2020,2020,40591513.24719443,40.591513247194435
+2,Urban,RPO,IS-entrants,IS_N_urban,S20,False,2020,2022,2022,42299540.248485416,42.299540248485414
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2010,2012,2012,39679921.90786918,39.67992190786918
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2012,2014,2014,38873146.90628601,38.87314690628601
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2014,2016,2016,43976260.4698234,43.976260469823394
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2016,2018,2018,54717016.414685935,54.717016414685936
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2018,2020,2020,61947704.224147625,61.94770422414763
+2,Urban,RPO,IS-entrants,IS_N_urban,S21,False,2020,2022,2022,63379738.056281164,63.37973805628116
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2010,2012,2012,7432198.804087855,7.432198804087855
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2012,2014,2014,8722781.346150193,8.722781346150194
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2014,2016,2016,9989552.309364349,9.989552309364349
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2016,2018,2018,15245566.82931058,15.24556682931058
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2018,2020,2020,21712884.310390837,21.712884310390837
+2,Urban,RPO,IS-entrants,IS_N_urban,S22,False,2020,2022,2022,23421474.034014657,23.421474034014658
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2010,2012,2012,20057869.43015609,20.05786943015609
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2012,2014,2014,21075783.110750012,21.075783110750013
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2014,2016,2016,24025925.722986937,24.025925722986937
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2016,2018,2018,32310970.595271867,32.31097059527187
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2018,2020,2020,40044671.78424587,40.04467178424587
+2,Urban,RPO,IS-entrants,IS_N_urban,S23,True,2020,2022,2022,41899534.247789234,41.899534247789234
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2010,2012,2012,37661958.4677644,37.6619584677644
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2012,2014,2014,38221933.625712074,38.221933625712076
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2014,2016,2016,43851334.15685888,43.851334156858876
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2016,2018,2018,54598076.90495849,54.59807690495849
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2018,2020,2020,61400862.76119906,61.40086276119906
+2,Urban,RPO,IS-entrants,IS_N_urban,S24,False,2020,2022,2022,62979732.05558497,62.97973205558497
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2010,2012,2012,2096503.8123224664,2.0965038123224664
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2012,2014,2014,2423042.803443879,2.4230428034438787
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2014,2016,2016,3219314.5101645617,3.2193145101645615
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2016,2018,2018,3881306.2968583144,3.8813062968583143
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2018,2020,2020,7389702.562672578,7.389702562672578
+2,Urban,RPO,IS-exiters,IS_E_urban,S01,False,2020,2022,2022,12458891.818655098,12.458891818655097
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2010,2012,2012,5925173.980687062,5.925173980687062
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2012,2014,2014,6785219.985362911,6.785219985362911
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2014,2016,2016,8511671.22677302,8.51167122677302
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2016,2018,2018,10014436.071636744,10.014436071636744
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2018,2020,2020,16082172.040439874,16.082172040439875
+2,Urban,RPO,IS-exiters,IS_E_urban,S02,False,2020,2022,2022,23046529.85258323,23.04652985258323
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2010,2012,2012,12156834.052631054,12.156834052631053
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2012,2014,2014,14073403.251671227,14.073403251671227
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2014,2016,2016,17035828.711227767,17.03582871122777
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2016,2018,2018,19736675.881247677,19.736675881247677
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2018,2020,2020,28185065.280915853,28.185065280915854
+2,Urban,RPO,IS-exiters,IS_E_urban,S03,False,2020,2022,2022,35912103.62520474,35.91210362520474
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2010,2012,2012,1573498.23255865,1.57349823255865
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2012,2014,2014,2293757.6541349487,2.2937576541349487
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2014,2016,2016,3161381.0989747685,3.1613810989747684
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2016,2018,2018,3893083.8723418624,3.8930838723418626
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2018,2020,2020,7363989.563576935,7.363989563576935
+2,Urban,RPO,IS-exiters,IS_E_urban,S04,False,2020,2022,2022,12331006.770929202,12.331006770929202
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2010,2012,2012,5402168.400923249,5.402168400923249
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2012,2014,2014,6655934.83605398,6.655934836053979
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2014,2016,2016,8453737.815583225,8.453737815583226
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2016,2018,2018,10026213.647120291,10.026213647120292
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2018,2020,2020,16056459.04134423,16.05645904134423
+2,Urban,RPO,IS-exiters,IS_E_urban,S05,False,2020,2022,2022,22918644.804857336,22.918644804857337
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2010,2012,2012,11633828.472867241,11.633828472867242
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2012,2014,2014,13944118.102362294,13.944118102362294
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2014,2016,2016,16977895.300037973,16.97789530003797
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2016,2018,2018,19748453.456731223,19.748453456731223
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2018,2020,2020,28159352.28182021,28.15935228182021
+2,Urban,RPO,IS-exiters,IS_E_urban,S06,False,2020,2022,2022,35784218.57747884,35.78421857747884
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2010,2012,2012,9154705.74096041,9.15470574096041
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2012,2014,2014,9185323.593815641,9.185323593815642
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2014,2016,2016,9709505.935741529,9.709505935741529
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2016,2018,2018,9693094.388661662,9.693094388661661
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2018,2020,2020,13896896.813873924,13.896896813873925
+2,Urban,RPO,IS-exiters,IS_E_urban,S19,False,2020,2022,2022,19170923.0576113,19.1709230576113
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2010,2012,2012,20481881.17771032,20.48188117771032
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2012,2014,2014,21514714.76526249,21.51471476526249
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2014,2016,2016,22514940.31627031,22.51494031627031
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2016,2018,2018,23143929.33203762,23.14392933203762
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2018,2020,2020,29335883.27109043,29.33588327109043
+2,Urban,RPO,IS-exiters,IS_E_urban,S20,False,2020,2022,2022,34956679.659229174,34.956679659229174
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2010,2012,2012,35686987.85763432,35.68698785763432
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2012,2014,2014,38696595.691076025,38.69659569107603
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2014,2016,2016,40283676.28508425,40.28367628508425
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2016,2018,2018,42142305.099828035,42.142305099828036
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2018,2020,2020,49498918.21621844,49.49891821621844
+2,Urban,RPO,IS-exiters,IS_E_urban,S21,False,2020,2022,2022,53346792.08992692,53.34679208992692
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2010,2012,2012,4199803.4073848445,4.199803407384844
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2012,2014,2014,7033951.407579683,7.033951407579683
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2014,2016,2016,8952444.488440074,8.952444488440074
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2016,2018,2018,9512421.44970869,9.512421449708691
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2018,2020,2020,13719051.357141346,13.719051357141346
+2,Urban,RPO,IS-exiters,IS_E_urban,S22,False,2020,2022,2022,18744820.996643975,18.744820996643977
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2010,2012,2012,13135353.241016045,13.135353241016045
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2012,2014,2014,19348700.63192916,19.34870063192916
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2014,2016,2016,21753990.035700336,21.753990035700337
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2016,2018,2018,22963256.393084645,22.963256393084645
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2018,2020,2020,29158037.814357854,29.158037814357854
+2,Urban,RPO,IS-exiters,IS_E_urban,S23,True,2020,2022,2022,34530577.59826183,34.530577598261836
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2010,2012,2012,28121974.471006386,28.121974471006386
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2012,2014,2014,36519269.09057877,36.519269090578774
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2014,2016,2016,39522726.00451428,39.522726004514276
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2016,2018,2018,41961632.16087507,41.96163216087507
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2018,2020,2020,49321072.75948584,49.321072759485844
+2,Urban,RPO,IS-exiters,IS_E_urban,S24,False,2020,2022,2022,52920690.02895959,52.92069002895959
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2010,2012,2012,593547.7864794157,0.5935477864794158
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2012,2014,2014,832803.6876092278,0.8328036876092278
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2014,2016,2016,1001180.8057733742,1.0011808057733742
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2016,2018,2018,1490597.8415575726,1.4905978415575727
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2018,2020,2020,4067287.357655209,4.067287357655209
+2,Urban,RPO,IS-stayers,stay_urban,S01,False,2020,2022,2022,6193065.422025925,6.193065422025924
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2010,2012,2012,1678457.0622766034,1.6784570622766035
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2012,2014,2014,2278059.00458384,2.27805900458384
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2014,2016,2016,2637219.4969908698,2.6372194969908698
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2016,2018,2018,3552358.1489784354,3.5523581489784353
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2018,2020,2020,8054850.891352988,8.054850891352988
+2,Urban,RPO,IS-stayers,stay_urban,S02,False,2020,2022,2022,11293391.414192814,11.293391414192815
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2010,2012,2012,3459386.7359436443,3.459386735943644
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2012,2014,2014,4649161.863606056,4.649161863606056
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2014,2016,2016,5254139.730954509,5.254139730954509
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2016,2018,2018,6641429.062443052,6.641429062443052
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2018,2020,2020,13216559.771978883,13.216559771978883
+2,Urban,RPO,IS-stayers,stay_urban,S03,False,2020,2022,2022,17400118.852971092,17.40011885297109
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2010,2012,2012,479412.1228699382,0.47941212286993823
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2012,2014,2014,794754.6756352254,0.7947546756352254
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2014,2016,2016,980694.1827922626,0.9806941827922626
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2016,2018,2018,1472342.0291985492,1.4723420291985492
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2018,2020,2020,3991605.75021133,3.9916057502113302
+2,Urban,RPO,IS-stayers,stay_urban,S04,False,2020,2022,2022,6071558.131386118,6.071558131386118
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2010,2012,2012,1564321.3986671264,1.5643213986671265
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2012,2014,2014,2240009.992609837,2.240009992609837
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2014,2016,2016,2616732.8740097582,2.616732874009758
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2016,2018,2018,3534102.336619412,3.534102336619412
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2018,2020,2020,7979169.283909108,7.9791692839091075
+2,Urban,RPO,IS-stayers,stay_urban,S05,False,2020,2022,2022,11171884.123553012,11.171884123553012
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2010,2012,2012,3345251.0723341675,3.3452510723341677
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2012,2014,2014,4611112.851632053,4.611112851632053
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2014,2016,2016,5233653.107973397,5.233653107973397
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2016,2018,2018,6623173.2500840295,6.6231732500840295
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2018,2020,2020,13140878.164535005,13.140878164535005
+2,Urban,RPO,IS-stayers,stay_urban,S06,False,2020,2022,2022,17278611.56233129,17.27861156233129
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2010,2012,2012,2494086.416318425,2.494086416318425
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2012,2014,2014,2846451.926238028,2.8464519262380277
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2014,2016,2016,2819543.4604342347,2.8195434604342346
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2016,2018,2018,3274664.0734712547,3.274664073471255
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2018,2020,2020,6839483.412551365,6.839483412551365
+2,Urban,RPO,IS-stayers,stay_urban,S19,False,2020,2022,2022,9329989.367305731,9.329989367305732
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2010,2012,2012,5657575.521743543,5.657575521743543
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2012,2014,2014,6636415.883047587,6.6364158830475874
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2014,2016,2016,6616434.554780996,6.616434554780996
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2016,2018,2018,7408852.918686645,7.408852918686645
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2018,2020,2020,13293708.26894552,13.29370826894552
+2,Urban,RPO,IS-stayers,stay_urban,S20,False,2020,2022,2022,16780536.905267946,16.780536905267947
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2010,2012,2012,9954770.738985818,9.954770738985818
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2012,2014,2014,11907513.375312608,11.907513375312607
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2014,2016,2016,11923865.58949079,11.92386558949079
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2016,2018,2018,13072399.215470394,13.072399215470394
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2018,2020,2020,21259690.792935528,21.259690792935526
+2,Urban,RPO,IS-stayers,stay_urban,S21,False,2020,2022,2022,25368226.934978586,25.368226934978587
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2010,2012,2012,1364304.7338761096,1.3643047338761096
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2012,2014,2014,2378388.176257964,2.3783881762579644
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2014,2016,2016,2656380.4397129896,2.6563804397129895
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2016,2018,2018,3203290.926547408,3.203290926547408
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2018,2020,2020,6664512.482823519,6.664512482823519
+2,Urban,RPO,IS-stayers,stay_urban,S22,False,2020,2022,2022,9084083.578915484,9.084083578915484
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2010,2012,2012,4067554.687955034,4.067554687955034
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2012,2014,2014,6165401.843147839,6.16540184314784
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2014,2016,2016,6452593.975215316,6.452593975215316
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2016,2018,2018,7337479.771762798,7.337479771762798
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2018,2020,2020,13118737.339217674,13.118737339217674
+2,Urban,RPO,IS-stayers,stay_urban,S23,True,2020,2022,2022,16534631.116877694,16.534631116877694
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2010,2012,2012,8321904.691904781,8.32190469190478
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2012,2014,2014,11434631.51932922,11.43463151932922
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2014,2016,2016,11760025.00992511,11.76002500992511
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2016,2018,2018,13001026.068546548,13.00102606854655
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2018,2020,2020,21084719.86320768,21.084719863207678
+2,Urban,RPO,IS-stayers,stay_urban,S24,False,2020,2022,2022,25122321.14658833,25.12232114658833
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2010,2012,2012,20745109.30833308,20.74510930833308
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2012,2014,2014,16718399.847395668,16.718399847395666
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2014,2016,2016,14676826.878108695,14.676826878108695
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2016,2018,2018,11759885.300388683,11.759885300388683
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2018,2020,2020,11860411.663806248,11.860411663806248
+3,Rural,AP,IS-entrants,IS_N_rural,S01,False,2020,2022,2022,9967409.951568164,9.967409951568165
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2010,2012,2012,25701378.270230353,25.701378270230354
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2012,2014,2014,21519527.844133437,21.519527844133435
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2014,2016,2016,19408077.134825654,19.408077134825653
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2016,2018,2018,15290925.166055823,15.290925166055823
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2018,2020,2020,15390137.513113718,15.390137513113718
+3,Rural,AP,IS-entrants,IS_N_rural,S02,False,2020,2022,2022,12268883.231521165,12.268883231521166
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2010,2012,2012,29740980.19438295,29.74098019438295
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2012,2014,2014,25594343.13243897,25.59434313243897
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2014,2016,2016,23539927.611967698,23.5399276119677
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2016,2018,2018,18354801.353282075,18.354801353282074
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2018,2020,2020,18457031.301343065,18.457031301343065
+3,Rural,AP,IS-entrants,IS_N_rural,S03,False,2020,2022,2022,14223747.045308154,14.223747045308155
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2010,2012,2012,29188041.868553773,29.18804186855377
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2012,2014,2014,22631849.21133961,22.631849211339613
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2014,2016,2016,18544116.04769597,18.54411604769597
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2016,2018,2018,14785634.515520614,14.785634515520613
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2018,2020,2020,14903948.261354897,14.903948261354897
+3,Rural,AP,IS-entrants,IS_N_rural,S04,False,2020,2022,2022,12740312.208277116,12.740312208277116
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2010,2012,2012,34144310.83045105,34.14431083045105
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2012,2014,2014,27432977.20807738,27.43297720807738
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2014,2016,2016,23275366.30441293,23.27536630441293
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2016,2018,2018,18316674.381187756,18.316674381187756
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2018,2020,2020,18433674.11066237,18.43367411066237
+3,Rural,AP,IS-entrants,IS_N_rural,S05,False,2020,2022,2022,15041785.488230117,15.041785488230117
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2010,2012,2012,38183912.75460364,38.18391275460364
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2012,2014,2014,31507792.49638291,31.507792496382912
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2014,2016,2016,27407216.781554967,27.40721678155497
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2016,2018,2018,21380550.568414003,21.380550568414
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2018,2020,2020,21500567.898891717,21.500567898891717
+3,Rural,AP,IS-entrants,IS_N_rural,S06,False,2020,2022,2022,16996649.302017104,16.996649302017104
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2010,2012,2012,1776253.1293903117,1.7762531293903117
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2012,2014,2014,1709116.365970519,1.7091163659705189
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2014,2016,2016,1780530.822926092,1.7805308229260919
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2016,2018,2018,1515560.140788011,1.515560140788011
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2018,2020,2020,1655466.8479686945,1.6554668479686945
+3,Rural,AP,IS-entrants,IS_N_rural,S19,False,2020,2022,2022,1844394.7354949745,1.8443947354949746
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2010,2012,2012,3514917.7898241654,3.5149177898241653
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2012,2014,2014,3399112.839032467,3.399112839032467
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2014,2016,2016,3627422.364137256,3.627422364137256
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2016,2018,2018,2962036.993075294,2.962036993075294
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2018,2020,2020,3119304.2188880085,3.1193042188880087
+3,Rural,AP,IS-entrants,IS_N_rural,S20,False,2020,2022,2022,3179104.113884626,3.179104113884626
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2010,2012,2012,5786149.373379419,5.786149373379419
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2012,2014,2014,5618758.921815615,5.6187589218156155
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2014,2016,2016,6042630.50135269,6.04263050135269
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2016,2018,2018,4848442.173802451,4.848442173802451
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2018,2020,2020,4927977.71857685,4.927977718576851
+3,Rural,AP,IS-entrants,IS_N_rural,S21,False,2020,2022,2022,4728125.678221946,4.728125678221946
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2010,2012,2012,9960930.37931045,9.96093037931045
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2012,2014,2014,6141191.717255198,6.141191717255198
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2014,2016,2016,4444336.196447676,4.444336196447676
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2016,2018,2018,3880138.5824497286,3.8801385824497285
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2018,2020,2020,3562179.7397658946,3.5621797397658947
+3,Rural,AP,IS-entrants,IS_N_rural,S22,False,2020,2022,2022,4249451.856625172,4.249451856625172
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2010,2012,2012,10549883.556272818,10.549883556272817
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2012,2014,2014,7461675.866277569,7.461675866277569
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2014,2016,2016,6127629.1044207085,6.127629104420708
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2016,2018,2018,5277689.289159935,5.277689289159935
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2018,2020,2020,4997689.855746562,4.997689855746562
+3,Rural,AP,IS-entrants,IS_N_rural,S23,True,2020,2022,2022,5584161.235014823,5.5841612350148235
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2010,2012,2012,12258991.343927605,12.258991343927605
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2012,2014,2014,9515324.988132898,9.515324988132898
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2014,2016,2016,8526047.559575,8.526047559575002
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2016,2018,2018,7164094.469887093,7.164094469887092
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2018,2020,2020,6806363.355435404,6.806363355435404
+3,Rural,AP,IS-entrants,IS_N_rural,S24,False,2020,2022,2022,7133182.799352145,7.133182799352145
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2010,2012,2012,37034180.965385206,37.034180965385204
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2012,2014,2014,22646673.708242513,22.646673708242513
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2014,2016,2016,19606275.85205938,19.60627585205938
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2016,2018,2018,17602475.951084074,17.602475951084074
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2018,2020,2020,16608691.690386789,16.608691690386788
+3,Rural,AP,IS-exiters,IS_E_rural,S01,False,2020,2022,2022,11410611.70242593,11.41061170242593
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2010,2012,2012,42045291.19558095,42.04529119558095
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2012,2014,2014,27296843.649779953,27.29684364977995
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2014,2016,2016,24805711.51429968,24.80571151429968
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2016,2018,2018,22930280.705441788,22.93028070544179
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2018,2020,2020,21095241.35281864,21.095241352818643
+3,Rural,AP,IS-exiters,IS_E_rural,S02,False,2020,2022,2022,14309622.59973518,14.30962259973518
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2010,2012,2012,46284855.90657948,46.28485590657948
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2012,2014,2014,31313952.351886272,31.31395235188627
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2014,2016,2016,29259684.332410797,29.259684332410796
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2016,2018,2018,27704302.814886097,27.7043028148861
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2018,2020,2020,24874180.563925147,24.874180563925147
+3,Rural,AP,IS-exiters,IS_E_rural,S03,False,2020,2022,2022,16765865.882933987,16.765865882933987
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2010,2012,2012,54449343.93035418,54.449343930354175
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2012,2014,2014,32744756.01857728,32.744756018577284
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2014,2016,2016,26611996.13710655,26.611996137106548
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2016,2018,2018,22233680.165017247,22.233680165017248
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2018,2020,2020,19963753.02945776,19.96375302945776
+3,Rural,AP,IS-exiters,IS_E_rural,S04,False,2020,2022,2022,14103426.866296293,14.103426866296294
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2010,2012,2012,59460454.16054992,59.460454160549915
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2012,2014,2014,37394925.96011473,37.39492596011473
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2014,2016,2016,31811431.799346857,31.811431799346856
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2016,2018,2018,27561484.919374958,27.56148491937496
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2018,2020,2020,24450302.691889618,24.45030269188962
+3,Rural,AP,IS-exiters,IS_E_rural,S05,False,2020,2022,2022,17002437.763605542,17.002437763605542
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2010,2012,2012,63700018.871548444,63.700018871548444
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2012,2014,2014,41412034.66222105,41.41203466222105
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2014,2016,2016,36265404.61745797,36.26540461745797
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2016,2018,2018,32335507.028819263,32.335507028819265
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2018,2020,2020,28229241.90299612,28.22924190299612
+3,Rural,AP,IS-exiters,IS_E_rural,S06,False,2020,2022,2022,19458681.046804354,19.458681046804355
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2010,2012,2012,2842000.9679628895,2.8420009679628895
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2012,2014,2014,1922589.9523400485,1.9225899523400485
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2014,2016,2016,2069959.9630840055,2.0699599630840053
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2016,2018,2018,2839501.0144231734,2.8395010144231736
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2018,2020,2020,3289297.614100608,3.289297614100608
+3,Rural,AP,IS-exiters,IS_E_rural,S19,False,2020,2022,2022,2487470.6173714856,2.4874706173714856
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2010,2012,2012,4565375.007748121,4.565375007748122
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2012,2014,2014,3616921.3367594862,3.616921336759486
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2014,2016,2016,4056794.1653832365,4.056794165383237
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2016,2018,2018,5425678.265458843,5.425678265458843
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2018,2020,2020,5811703.596695238,5.811703596695238
+3,Rural,AP,IS-exiters,IS_E_rural,S20,False,2020,2022,2022,4207279.525388811,4.2072795253888104
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2010,2012,2012,6825147.285580513,6.825147285580513
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2012,2014,2014,5821108.310038738,5.8211083100387375
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2014,2016,2016,6628844.384277226,6.628844384277226
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2016,2018,2018,8655680.206510613,8.655680206510613
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2018,2020,2020,8738554.11045094,8.73855411045094
+3,Rural,AP,IS-exiters,IS_E_rural,S21,False,2020,2022,2022,6120346.251588782,6.120346251588782
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2010,2012,2012,21950366.145396806,21.950366145396806
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2012,2014,2014,10396299.032053895,10.396299032053895
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2014,2016,2016,7044321.083674156,7.0443210836741565
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2016,2018,2018,5841532.827841331,5.841532827841331
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2018,2020,2020,5865744.900867604,5.865744900867604
+3,Rural,AP,IS-exiters,IS_E_rural,S22,False,2020,2022,2022,4095880.7082399568,4.095880708239957
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2010,2012,2012,23286861.030439127,23.286861030439127
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2012,2014,2014,11927818.890832301,11.9278188908323
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2014,2016,2016,8958000.117768735,8.958000117768735
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2016,2018,2018,8387172.897031009,8.387172897031009
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2018,2020,2020,8388150.883462233,8.388150883462233
+3,Rural,AP,IS-exiters,IS_E_rural,S23,True,2020,2022,2022,5815689.616257281,5.815689616257281
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2010,2012,2012,25372852.383316185,25.372852383316186
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2012,2014,2014,14115292.467529498,14.115292467529498
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2014,2016,2016,11530050.336662725,11.530050336662725
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2016,2018,2018,11617174.83808278,11.617174838082779
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2018,2020,2020,11315001.397217937,11.315001397217937
+3,Rural,AP,IS-exiters,IS_E_rural,S24,False,2020,2022,2022,7728756.3424572535,7.728756342457253
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2010,2012,2012,10774098.216015909,10.77409821601591
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2012,2014,2014,6222363.107905095,6.222363107905095
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2014,2016,2016,3534491.0194551926,3.5344910194551926
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2016,2018,2018,2494080.9775024047,2.4940809775024047
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2018,2020,2020,1878814.4770832227,1.8788144770832227
+3,Rural,AP,IS-stayers,stay_rural,S01,False,2020,2022,2022,1698256.3705286435,1.6982563705286435
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2010,2012,2012,10774098.216015909,10.77409821601591
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2012,2014,2014,6222363.107905095,6.222363107905095
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2014,2016,2016,3534491.0194551926,3.5344910194551926
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2016,2018,2018,2494080.9775024047,2.4940809775024047
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2018,2020,2020,1878814.4770832227,1.8788144770832227
+3,Rural,AP,IS-stayers,stay_rural,S02,False,2020,2022,2022,1698256.3705286435,1.6982563705286435
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2010,2012,2012,10774098.216015909,10.77409821601591
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2012,2014,2014,6222363.107905095,6.222363107905095
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2014,2016,2016,3534491.0194551926,3.5344910194551926
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2016,2018,2018,2494080.9775024047,2.4940809775024047
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2018,2020,2020,1878814.4770832227,1.8788144770832227
+3,Rural,AP,IS-stayers,stay_rural,S03,False,2020,2022,2022,1698256.3705286435,1.6982563705286435
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2010,2012,2012,19006170.437381413,19.006170437381414
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2012,2014,2014,11963829.288768042,11.963829288768041
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2014,2016,2016,7129557.886163935,7.129557886163935
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2016,2018,2018,4943887.686660466,4.9438876866604655
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2018,2020,2020,3760538.531010515,3.760538531010515
+3,Rural,AP,IS-stayers,stay_rural,S04,False,2020,2022,2022,3291109.56208225,3.29110956208225
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2010,2012,2012,19006170.437381413,19.006170437381414
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2012,2014,2014,11963829.288768042,11.963829288768041
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2014,2016,2016,7129557.886163935,7.129557886163935
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2016,2018,2018,4943887.686660466,4.9438876866604655
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2018,2020,2020,3760538.531010515,3.760538531010515
+3,Rural,AP,IS-stayers,stay_rural,S05,False,2020,2022,2022,3291109.56208225,3.29110956208225
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2010,2012,2012,19006170.437381413,19.006170437381414
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2012,2014,2014,11963829.288768042,11.963829288768041
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2014,2016,2016,7129557.886163935,7.129557886163935
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2016,2018,2018,4943887.686660466,4.9438876866604655
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2018,2020,2020,3760538.531010515,3.760538531010515
+3,Rural,AP,IS-stayers,stay_rural,S06,False,2020,2022,2022,3291109.56208225,3.29110956208225
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2010,2012,2012,453963.6710976829,0.45396367109768293
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2012,2014,2014,193258.4522353168,0.1932584522353168
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2014,2016,2016,107292.30957847962,0.10729230957847961
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2016,2018,2018,105163.21296523,0.10516321296523001
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2018,2020,2020,74084.10156270236,0.07408410156270236
+3,Rural,AP,IS-stayers,stay_rural,S19,False,2020,2022,2022,77057.65309519743,0.07705765309519742
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2010,2012,2012,453963.6710976829,0.45396367109768293
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2012,2014,2014,193258.4522353168,0.1932584522353168
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2014,2016,2016,107292.30957847962,0.10729230957847961
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2016,2018,2018,105163.21296523,0.10516321296523001
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2018,2020,2020,74084.10156270236,0.07408410156270236
+3,Rural,AP,IS-stayers,stay_rural,S20,False,2020,2022,2022,77057.65309519743,0.07705765309519742
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2010,2012,2012,453963.6710976829,0.45396367109768293
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2012,2014,2014,193258.4522353168,0.1932584522353168
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2014,2016,2016,107292.30957847962,0.10729230957847961
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2016,2018,2018,105163.21296523,0.10516321296523001
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2018,2020,2020,74084.10156270236,0.07408410156270236
+3,Rural,AP,IS-stayers,stay_rural,S21,False,2020,2022,2022,77057.65309519743,0.07705765309519742
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2010,2012,2012,8205531.463590611,8.20553146359061
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2012,2014,2014,4562029.876860308,4.562029876860309
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2014,2016,2016,2548746.45950217,2.54874645950217
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2016,2018,2018,1827338.430380786,1.827338430380786
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2018,2020,2020,1369432.310618904,1.369432310618904
+3,Rural,AP,IS-stayers,stay_rural,S22,False,2020,2022,2022,1256585.8674380118,1.2565858674380117
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2010,2012,2012,8205531.463590611,8.20553146359061
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2012,2014,2014,4562029.876860308,4.562029876860309
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2014,2016,2016,2548746.45950217,2.54874645950217
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2016,2018,2018,1827338.430380786,1.827338430380786
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2018,2020,2020,1369432.310618904,1.369432310618904
+3,Rural,AP,IS-stayers,stay_rural,S23,True,2020,2022,2022,1256585.8674380118,1.2565858674380117
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2010,2012,2012,8205531.463590611,8.20553146359061
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2012,2014,2014,4562029.876860308,4.562029876860309
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2014,2016,2016,2548746.45950217,2.54874645950217
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2016,2018,2018,1827338.430380786,1.827338430380786
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2018,2020,2020,1369432.310618904,1.369432310618904
+3,Rural,AP,IS-stayers,stay_rural,S24,False,2020,2022,2022,1256585.8674380118,1.2565858674380117
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2010,2012,2012,69638724.76446705,69.63872476446704
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2012,2014,2014,70246909.00031975,70.24690900031975
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2014,2016,2016,71386842.1369469,71.3868421369469
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2016,2018,2018,68999389.76982062,68.99938976982061
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2018,2020,2020,62616189.43253125,62.61618943253125
+3,Rural,RPO,IS-entrants,IS_N_rural,S01,False,2020,2022,2022,55817579.79112113,55.81757979112113
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2010,2012,2012,106601053.71299767,106.60105371299767
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2012,2014,2014,103834945.53315327,103.83494553315326
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2014,2016,2016,103096256.76348348,103.09625676348348
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2016,2018,2018,97224257.39683177,97.22425739683176
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2018,2020,2020,84596304.67577192,84.59630467577192
+3,Rural,RPO,IS-entrants,IS_N_rural,S02,False,2020,2022,2022,74247159.36688884,74.24715936688884
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2010,2012,2012,137633003.14844868,137.63300314844867
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2012,2014,2014,132609975.43600547,132.60997543600547
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2014,2016,2016,129822972.95811746,129.82297295811745
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2016,2018,2018,121391752.58896922,121.39175258896921
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2018,2020,2020,102427811.338633,102.427811338633
+3,Rural,RPO,IS-entrants,IS_N_rural,S03,False,2020,2022,2022,89473831.66493252,89.47383166493252
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2010,2012,2012,55133972.610687524,55.13397261068752
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2012,2014,2014,60734087.17159961,60.73408717159961
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2014,2016,2016,65021037.504320055,65.02103750432005
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2016,2018,2018,64342466.05461957,64.34246605461958
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2018,2020,2020,58749943.83207869,58.749943832078685
+3,Rural,RPO,IS-entrants,IS_N_rural,S04,False,2020,2022,2022,52765623.05460709,52.76562305460709
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2010,2012,2012,92096301.55921817,92.09630155921816
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2012,2014,2014,94322123.70443316,94.32212370443315
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2014,2016,2016,96730452.13085663,96.73045213085663
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2016,2018,2018,92567333.68163073,92.56733368163073
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2018,2020,2020,80730059.07531935,80.73005907531935
+3,Rural,RPO,IS-entrants,IS_N_rural,S05,False,2020,2022,2022,71195202.63037479,71.1952026303748
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2010,2012,2012,123128250.99466915,123.12825099466916
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2012,2014,2014,123097153.60728534,123.09715360728534
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2014,2016,2016,123457168.32549061,123.45716832549061
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2016,2018,2018,116734828.87376817,116.73482887376817
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2018,2020,2020,98561565.73818044,98.56156573818045
+3,Rural,RPO,IS-entrants,IS_N_rural,S06,False,2020,2022,2022,86421874.92841846,86.42187492841846
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2010,2012,2012,10616096.887744332,10.616096887744332
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2012,2014,2014,10470055.37766817,10.47005537766817
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2014,2016,2016,10376862.026643062,10.376862026643062
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2016,2018,2018,11741234.458714454,11.741234458714453
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2018,2020,2020,12913659.890117563,12.913659890117563
+3,Rural,RPO,IS-entrants,IS_N_rural,S19,False,2020,2022,2022,14138392.860429151,14.138392860429152
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2010,2012,2012,22607216.412497856,22.607216412497856
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2012,2014,2014,22046485.801884163,22.046485801884163
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2014,2016,2016,21409062.614392683,21.40906261439268
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2016,2018,2018,22519619.66344426,22.51961966344426
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2018,2020,2020,23572616.033079185,23.572616033079186
+3,Rural,RPO,IS-entrants,IS_N_rural,S20,False,2020,2022,2022,24094603.030979473,24.094603030979474
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2010,2012,2012,38263017.55406602,38.26301755406602
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2012,2014,2014,37038960.081813045,37.038960081813045
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2014,2016,2016,35535907.157052726,35.535907157052726
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2016,2018,2018,35751918.647529975,35.751918647529976
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2018,2020,2020,35927983.29792549,35.927983297925486
+3,Rural,RPO,IS-entrants,IS_N_rural,S21,False,2020,2022,2022,35122180.13153199,35.12218013153199
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2010,2012,2012,3830623.4083450935,3.8306234083450934
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2012,2014,2014,5262614.7791705085,5.262614779170509
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2014,2016,2016,6672427.99596903,6.67242799596903
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2016,2018,2018,8451822.883917965,8.451822883917965
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2018,2020,2020,10505931.138819646,10.505931138819646
+3,Rural,RPO,IS-entrants,IS_N_rural,S22,False,2020,2022,2022,11468877.696911028,11.468877696911028
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2010,2012,2012,12946656.678978747,12.946656678978746
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2012,2014,2014,15652027.192999348,15.652027192999348
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2014,2016,2016,17250055.053598035,17.250055053598036
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2016,2018,2018,18998229.676121075,18.998229676121074
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2018,2020,2020,21164887.281781267,21.16488728178127
+3,Rural,RPO,IS-entrants,IS_N_rural,S23,True,2020,2022,2022,21425087.86746135,21.42508786746135
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2010,2012,2012,27311322.77397126,27.31132277397126
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2012,2014,2014,30522624.004640575,30.522624004640576
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2014,2016,2016,31376899.596258085,31.376899596258085
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2016,2018,2018,32230528.66020679,32.230528660206794
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2018,2020,2020,33520254.54662758,33.520254546627584
+3,Rural,RPO,IS-entrants,IS_N_rural,S24,False,2020,2022,2022,32452664.96801387,32.45266496801387
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2010,2012,2012,52181563.118318476,52.18156311831848
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2012,2014,2014,68204875.00935496,68.20487500935496
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2014,2016,2016,71855493.36066422,71.85549336066421
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2016,2018,2018,66661404.37633718,66.66140437633717
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2018,2020,2020,63051732.18537739,63.05173218537739
+3,Rural,RPO,IS-exiters,IS_E_rural,S01,False,2020,2022,2022,57022627.871345,57.022627871345
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2010,2012,2012,86547648.23626126,86.54764823626127
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2012,2014,2014,104975299.486225,104.975299486225
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2014,2016,2016,106409078.02497563,106.40907802497563
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2016,2018,2018,96357269.14036116,96.35726914036115
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2018,2020,2020,88882257.97906938,88.88225797906938
+3,Rural,RPO,IS-exiters,IS_E_rural,S02,False,2020,2022,2022,77110680.700914,77.11068070091399
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2010,2012,2012,114452271.3077476,114.45227130774761
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2012,2014,2014,135846134.34825987,135.84613434825985
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2014,2016,2016,136011297.58295277,136.01129758295278
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2016,2018,2018,121386837.14248064,121.38683714248064
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2018,2020,2020,110999602.02400716,110.99960202400716
+3,Rural,RPO,IS-exiters,IS_E_rural,S03,False,2020,2022,2022,93407239.83676831,93.40723983676831
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2010,2012,2012,30062160.720269926,30.062160720269926
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2012,2014,2014,53178984.92614244,53.17898492614244
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2014,2016,2016,61766716.09989986,61.76671609989986
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2016,2018,2018,60487157.88283778,60.48715788283778
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2018,2020,2020,58711137.97590618,58.711137975906176
+3,Rural,RPO,IS-exiters,IS_E_rural,S04,False,2020,2022,2022,53268143.90306782,53.268143903067816
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2010,2012,2012,64428245.83821274,64.42824583821275
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2012,2014,2014,89949409.40301247,89.94940940301247
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2014,2016,2016,96320300.76421131,96.32030076421131
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2016,2018,2018,90183022.64686173,90.18302264686173
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2018,2020,2020,84541663.76959817,84.54166376959817
+3,Rural,RPO,IS-exiters,IS_E_rural,S05,False,2020,2022,2022,73356196.73263681,73.3561967326368
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2010,2012,2012,92332868.90969907,92.33286890969907
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2012,2014,2014,120820244.26504734,120.82024426504734
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2014,2016,2016,125922520.3221884,125.9225203221884
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2016,2018,2018,115212590.64898121,115.21259064898122
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2018,2020,2020,106659007.81453596,106.65900781453595
+3,Rural,RPO,IS-exiters,IS_E_rural,S06,False,2020,2022,2022,89652755.86849114,89.65275586849114
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2010,2012,2012,9173503.667079438,9.173503667079437
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2012,2014,2014,10496110.474820446,10.496110474820446
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2014,2016,2016,10757555.880740916,10.757555880740917
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2016,2018,2018,9718997.738019649,9.718997738019649
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2018,2020,2020,10741495.660145594,10.741495660145594
+3,Rural,RPO,IS-exiters,IS_E_rural,S19,False,2020,2022,2022,11794069.773498906,11.794069773498906
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2010,2012,2012,20890855.95635821,20.89085595635821
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2012,2014,2014,22424973.385272928,22.424973385272928
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2014,2016,2016,22666771.484416828,22.666771484416827
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2016,2018,2018,20050652.880881593,20.050652880881593
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2018,2020,2020,20605540.39985172,20.60554039985172
+3,Rural,RPO,IS-exiters,IS_E_rural,S20,False,2020,2022,2022,21535496.137208145,21.535496137208145
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2010,2012,2012,36183491.10688612,36.183491106886116
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2012,2014,2014,37999491.276246145,37.99949127624615
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2014,2016,2016,38090231.228859685,38.090231228859686
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2016,2018,2018,33280441.889037833,33.28044188903783
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2018,2020,2020,32715331.125359707,32.715331125359704
+3,Rural,RPO,IS-exiters,IS_E_rural,S21,False,2020,2022,2022,32827305.4657004,32.8273054657004
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2010,2012,2012,1069189.9212450208,1.0691899212450209
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2012,2014,2014,2797500.376124479,2.797500376124479
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2014,2016,2016,5088807.927784192,5.088807927784193
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2016,2018,2018,6110256.047965584,6.110256047965584
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2018,2020,2020,7693713.365738916,7.693713365738916
+3,Rural,RPO,IS-exiters,IS_E_rural,S22,False,2020,2022,2022,9461126.715018235,9.461126715018235
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2010,2012,2012,4865546.727282837,4.865546727282837
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2012,2014,2014,11866204.173799936,11.866204173799936
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2014,2016,2016,15776882.567180144,15.776882567180143
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2016,2018,2018,16016203.10902428,16.016203109024282
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2018,2020,2020,17345458.637913935,17.345458637913936
+3,Rural,RPO,IS-exiters,IS_E_rural,S23,True,2020,2022,2022,19202553.07872747,19.20255307872747
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2010,2012,2012,16253182.395498881,16.253182395498882
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2012,2014,2014,26156290.453722376,26.156290453722377
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2014,2016,2016,31074961.25771611,31.07496125771611
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2016,2018,2018,29245992.117180523,29.245992117180524
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2018,2020,2020,29455249.363421913,29.455249363421913
+3,Rural,RPO,IS-exiters,IS_E_rural,S24,False,2020,2022,2022,30494362.40721973,30.49436240721973
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2010,2012,2012,10497416.96547439,10.49741696547439
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2012,2014,2014,11813869.223495264,11.813869223495264
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2014,2016,2016,9159256.498566832,9.159256498566833
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2016,2018,2018,11639052.844064623,11.639052844064624
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2018,2020,2020,12801236.551145691,12.801236551145692
+3,Rural,RPO,IS-stayers,stay_rural,S01,False,2020,2022,2022,16562535.33694834,16.56253533694834
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2010,2012,2012,17181668.15015615,17.181668150156153
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2012,2014,2014,17826817.357558466,17.826817357558465
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2014,2016,2016,13426336.245687485,13.426336245687486
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2016,2018,2018,16674110.767867967,16.67411076786797
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2018,2020,2020,17692641.9191543,17.6926419191543
+3,Rural,RPO,IS-stayers,stay_rural,S02,False,2020,2022,2022,22292648.639405552,22.292648639405552
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2010,2012,2012,22641597.56241573,22.64159756241573
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2012,2014,2014,22931093.114780203,22.931093114780204
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2014,2016,2016,17054310.896970145,17.054310896970147
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2016,2018,2018,20945630.423358407,20.945630423358406
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2018,2020,2020,21773411.178959668,21.773411178959666
+3,Rural,RPO,IS-stayers,stay_rural,S03,False,2020,2022,2022,26975828.23651414,26.97582823651414
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2010,2012,2012,6427451.68462838,6.42745168462838
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2012,2014,2014,9662675.356212456,9.662675356212455
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2014,2016,2016,8037151.098998281,8.037151098998281
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2016,2018,2018,10604354.08806248,10.60435408806248
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2018,2020,2020,11848344.60401168,11.84834460401168
+3,Rural,RPO,IS-stayers,stay_rural,S04,False,2020,2022,2022,15400699.08983703,15.40069908983703
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2010,2012,2012,13111702.869310142,13.111702869310143
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2012,2014,2014,15675623.490275662,15.675623490275662
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2014,2016,2016,12304230.846118933,12.304230846118932
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2016,2018,2018,15639412.011865824,15.639412011865824
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2018,2020,2020,16739749.972020289,16.739749972020288
+3,Rural,RPO,IS-stayers,stay_rural,S05,False,2020,2022,2022,21130812.392294243,21.130812392294242
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2010,2012,2012,18571632.281569723,18.571632281569723
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2012,2014,2014,20779899.247497395,20.779899247497394
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2014,2016,2016,15932205.497401595,15.932205497401595
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2016,2018,2018,19910931.667356268,19.910931667356266
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2018,2020,2020,20820519.231825657,20.820519231825656
+3,Rural,RPO,IS-stayers,stay_rural,S06,False,2020,2022,2022,25813991.98940283,25.81399198940283
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2010,2012,2012,1804542.3498547424,1.8045423498547424
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2012,2014,2014,1798756.0598051976,1.7987560598051977
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2014,2016,2016,1358520.5613600337,1.3585205613600337
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2016,2018,2018,1828135.0364120472,1.8281350364120472
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2018,2020,2020,2439358.270922967,2.439358270922967
+3,Rural,RPO,IS-stayers,stay_rural,S19,False,2020,2022,2022,3774755.585373383,3.774755585373383
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2010,2012,2012,4064121.6982135857,4.064121698213586
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2012,2014,2014,3815635.555704857,3.815635555704857
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2014,2016,2016,2835715.132952868,2.835715132952868
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2016,2018,2018,3650069.764662699,3.6500697646626987
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2018,2020,2020,4553483.851907905,4.553483851907905
+3,Rural,RPO,IS-stayers,stay_rural,S20,False,2020,2022,2022,6681408.448345826,6.681408448345826
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2010,2012,2012,7013346.838212756,7.013346838212756
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2012,2014,2014,6437040.01413074,6.437040014130741
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2014,2016,2016,4738677.577153838,4.7386775771538385
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2016,2018,2018,5941388.061925542,5.941388061925542
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2018,2020,2020,7069553.402279424,7.069553402279424
+3,Rural,RPO,IS-stayers,stay_rural,S21,False,2020,2022,2022,9986247.111568786,9.986247111568787
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2010,2012,2012,224127.909742638,0.224127909742638
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2012,2014,2014,635196.7438576899,0.6351967438576899
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2014,2016,2016,711923.5692456989,0.7119235692456989
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2016,2018,2018,1172523.5559796514,1.1725235559796514
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2018,2020,2020,1800574.8461800702,1.8005748461800701
+3,Rural,RPO,IS-stayers,stay_rural,S22,False,2020,2022,2022,2937206.1078137606,2.937206107813761
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2010,2012,2012,1122719.1442507303,1.1227191442507303
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2012,2014,2014,2323135.8574314085,2.3231358574314083
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2014,2016,2016,2080282.899743663,2.080282899743663
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2016,2018,2018,2934914.430016157,2.9349144300161574
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2018,2020,2020,3894133.748455377,3.894133748455377
+3,Rural,RPO,IS-stayers,stay_rural,S23,True,2020,2022,2022,5843858.970786203,5.8438589707862025
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2010,2012,2012,3405004.890077148,3.405004890077148
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2012,2014,2014,4836846.69288731,4.83684669288731
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2014,2016,2016,3975011.369974399,3.975011369974399
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2016,2018,2018,5226232.727279,5.226232727279
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2018,2020,2020,6410203.298826896,6.410203298826896
+3,Rural,RPO,IS-stayers,stay_rural,S24,False,2020,2022,2022,9148697.634009166,9.148697634009165
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2010,2012,2012,2016084.571925257,2.016084571925257
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2012,2014,2014,3052374.371017604,3.052374371017604
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2014,2016,2016,1673368.8874244408,1.6733688874244408
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2016,2018,2018,3146302.83900106,3.14630283900106
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2018,2020,2020,2969088.6241858844,2.9690886241858845
+4,Movers,AP,CS-entrants,CS_N_transition_total,S01,False,2020,2022,2022,1955104.2225528527,1.9551042225528528
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2010,2012,2012,3008068.085333161,3.008068085333161
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2012,2014,2014,4539313.939129739,4.539313939129739
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2014,2016,2016,2377047.5791432504,2.3770475791432504
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2016,2018,2018,4542594.593705242,4.542594593705242
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2018,2020,2020,4117376.801753625,4.1173768017536245
+4,Movers,AP,CS-entrants,CS_N_transition_total,S02,False,2020,2022,2022,2614586.8601822304,2.6145868601822304
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2010,2012,2012,3828743.826645177,3.828743826645177
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2012,2014,2014,5831682.05318177,5.83168205318177
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2014,2016,2016,3058458.4300984866,3.0584584300984865
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2016,2018,2018,5807168.977958729,5.807168977958729
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2018,2020,2020,5145168.6093215505,5.1451686093215505
+4,Movers,AP,CS-entrants,CS_N_transition_total,S03,False,2020,2022,2022,3237375.4434740897,3.2373754434740896
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2010,2012,2012,1880414.6589312511,1.8804146589312511
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2012,2014,2014,2846300.899035397,2.846300899035397
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2014,2016,2016,1886098.0525634119,1.886098052563412
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2016,2018,2018,3092306.7432924192,3.0923067432924194
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2018,2020,2020,3157591.6737179756,3.1575916737179757
+4,Movers,AP,CS-entrants,CS_N_transition_total,S04,False,2020,2022,2022,2276166.7850158983,2.2761667850158984
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2010,2012,2012,2872398.1723391544,2.8723981723391545
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2012,2014,2014,4333240.467147533,4.333240467147533
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2014,2016,2016,2589776.744282221,2.589776744282221
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2016,2018,2018,4488598.4979966,4.4885984979966
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2018,2020,2020,4305879.851285716,4.305879851285716
+4,Movers,AP,CS-entrants,CS_N_transition_total,S05,False,2020,2022,2022,2935649.422645276,2.935649422645276
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2010,2012,2012,3693073.9136511716,3.6930739136511717
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2012,2014,2014,5625608.581199564,5.625608581199564
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2014,2016,2016,3271187.595237457,3.2711875952374574
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2016,2018,2018,5753172.882250087,5.753172882250087
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2018,2020,2020,5333671.658853642,5.333671658853642
+4,Movers,AP,CS-entrants,CS_N_transition_total,S06,False,2020,2022,2022,3558438.005937135,3.558438005937135
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2010,2012,2012,325964.73663625587,0.32596473663625586
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2012,2014,2014,533646.2220503924,0.5336462220503925
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2014,2016,2016,388993.13816855627,0.38899313816855624
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2016,2018,2018,616555.1723681346,0.6165551723681346
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2018,2020,2020,587774.3361602362,0.5877743361602361
+4,Movers,AP,CS-entrants,CS_N_transition_total,S19,False,2020,2022,2022,680950.0484225838,0.6809500484225839
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2010,2012,2012,712979.0995225706,0.7129790995225707
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2012,2014,2014,1148471.549091119,1.148471549091119
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2014,2016,2016,847744.5314679996,0.8477445314679996
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2016,2018,2018,1320319.8162517361,1.3203198162517362
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2018,2020,2020,1142199.0251046873,1.1421990251046874
+4,Movers,AP,CS-entrants,CS_N_transition_total,S20,False,2020,2022,2022,1219398.5314530504,1.2193985314530504
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2010,2012,2012,1220135.1188046518,1.2201351188046519
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2012,2014,2014,1964356.6552188226,1.9643566552188227
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2014,2016,2016,1465191.6402952205,1.4651916402952205
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2016,2018,2018,2255674.4948963565,2.2556744948963563
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2018,2020,2020,1834413.9570917534,1.8344139570917535
+4,Movers,AP,CS-entrants,CS_N_transition_total,S21,False,2020,2022,2022,1845431.4213980448,1.8454314213980447
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2010,2012,2012,1004025.8634189415,1.0040258634189414
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2012,2014,2014,704231.1919249144,0.7042311919249143
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2014,2016,2016,591790.6352660144,0.5917906352660144
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2016,2018,2018,694717.975099793,0.694717975099793
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2018,2020,2020,865237.4748882258,0.8652374748882258
+4,Movers,AP,CS-entrants,CS_N_transition_total,S22,False,2020,2022,2022,1033124.2268826417,1.0331242268826417
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2010,2012,2012,1155051.8807470668,1.1550518807470669
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2012,2014,2014,1207335.7861424366,1.2073357861424365
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2014,2016,2016,1029279.788855498,1.0292797888554979
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2016,2018,2018,1380159.3715092253,1.3801593715092253
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2018,2020,2020,1410907.7953968807,1.4109077953968807
+4,Movers,AP,CS-entrants,CS_N_transition_total,S23,True,2020,2022,2022,1571572.709913108,1.571572709913108
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2010,2012,2012,1550543.6944765202,1.55054369447652
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2012,2014,2014,1972992.2000873047,1.9729922000873046
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2014,2016,2016,1644551.6520805075,1.6445516520805075
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2016,2018,2018,2315514.050153846,2.315514050153846
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2018,2020,2020,2103122.7273839465,2.1031227273839463
+4,Movers,AP,CS-entrants,CS_N_transition_total,S24,False,2020,2022,2022,2197605.5998581024,2.1976055998581026
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2010,2012,2012,6220045.289842414,6.220045289842414
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2012,2014,2014,2482972.4215153614,2.4829724215153615
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2014,2016,2016,4000730.7180911154,4.000730718091115
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2016,2018,2018,2665736.369611602,2.6657363696116017
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2018,2020,2020,3006850.103072476,3.006850103072476
+4,Movers,AP,CS-exiters,CS_E_transition_total,S01,False,2020,2022,2022,2745495.3419689536,2.7454953419689536
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2010,2012,2012,8422400.474913914,8.422400474913914
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2012,2014,2014,3037425.056725733,3.037425056725733
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2014,2016,2016,5500356.955998271,5.500356955998271
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2016,2018,2018,3708429.5176429297,3.7084295176429296
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2018,2020,2020,4068329.6262663933,4.068329626266394
+4,Movers,AP,CS-exiters,CS_E_transition_total,S02,False,2020,2022,2022,3636274.408801967,3.6362744088019667
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2010,2012,2012,10303857.701445384,10.303857701445384
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2012,2014,2014,3545713.353448022,3.545713353448022
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2014,2016,2016,6835894.520005652,6.835894520005652
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2016,2018,2018,4813332.058053089,4.813332058053089
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2018,2020,2020,5068659.156180732,5.068659156180732
+4,Movers,AP,CS-exiters,CS_E_transition_total,S03,False,2020,2022,2022,4433299.810472501,4.433299810472501
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2010,2012,2012,6973383.464088447,6.973383464088448
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2012,2014,2014,3579409.369715495,3.579409369715495
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2014,2016,2016,4513601.790191226,4.513601790191226
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2016,2018,2018,3347341.5550840516,3.3473415550840517
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2018,2020,2020,3413097.2923355657,3.4130972923355656
+4,Movers,AP,CS-exiters,CS_E_transition_total,S04,False,2020,2022,2022,3028996.135350636,3.0289961353506363
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2010,2012,2012,9175738.649159947,9.175738649159948
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2012,2014,2014,4133862.004925867,4.133862004925867
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2014,2016,2016,6013228.028098382,6.013228028098382
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2016,2018,2018,4390034.703115379,4.390034703115379
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2018,2020,2020,4474576.815529482,4.474576815529482
+4,Movers,AP,CS-exiters,CS_E_transition_total,S05,False,2020,2022,2022,3919775.20218365,3.91977520218365
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2010,2012,2012,11057195.875691418,11.057195875691418
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2012,2014,2014,4642150.301648156,4.642150301648156
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2014,2016,2016,7348765.592105762,7.348765592105762
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2016,2018,2018,5494937.24352554,5.49493724352554
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2018,2020,2020,5474906.345443821,5.474906345443821
+4,Movers,AP,CS-exiters,CS_E_transition_total,S06,False,2020,2022,2022,4716800.603854183,4.716800603854183
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2010,2012,2012,855708.7806486508,0.8557087806486509
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2012,2014,2014,287217.08756186866,0.28721708756186864
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2014,2016,2016,636931.8118884979,0.6369318118884979
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2016,2018,2018,924259.7361322666,0.9242597361322665
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2018,2020,2020,1075231.4088005759,1.0752314088005759
+4,Movers,AP,CS-exiters,CS_E_transition_total,S19,False,2020,2022,2022,881012.4273599861,0.8810124273599861
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2010,2012,2012,1667881.6483232658,1.667881648323266
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2012,2014,2014,569921.2579998046,0.5699212579998045
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2014,2016,2016,1336544.531658962,1.336544531658962
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2016,2018,2018,1874057.8852853216,1.8740578852853216
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2018,2020,2020,1936696.4910998102,1.9366964910998101
+4,Movers,AP,CS-exiters,CS_E_transition_total,S20,False,2020,2022,2022,1515914.428347258,1.5159144283472579
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2010,2012,2012,2737974.820624362,2.737974820624362
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2012,2014,2014,945929.4297899406,0.9459294297899405
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2014,2016,2016,2260294.6103389882,2.2602946103389883
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2016,2018,2018,3095126.473508083,3.095126473508083
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2018,2020,2020,2938261.399669403,2.938261399669403
+4,Movers,AP,CS-exiters,CS_E_transition_total,S21,False,2020,2022,2022,2227329.6868447782,2.227329686844778
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2010,2012,2012,4230312.530729721,4.230312530729721
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2012,2014,2014,1596953.9550625768,1.5969539550625769
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2014,2016,2016,1214284.9954966523,1.2142849954966524
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2016,2018,2018,1415303.5477071232,1.4153035477071232
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2018,2020,2020,1439623.9853491094,1.4396239853491093
+4,Movers,AP,CS-exiters,CS_E_transition_total,S22,False,2020,2022,2022,1132768.1671538353,1.1327681671538352
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2010,2012,2012,4874083.088902196,4.8740830889021955
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2012,2014,2014,1861591.2979698367,1.8615912979698368
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2014,2016,2016,1893781.5403898638,1.8937815403898637
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2016,2018,2018,2359783.57790127,2.3597835779012697
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2018,2020,2020,2301089.0676483437,2.3010890676483435
+4,Movers,AP,CS-exiters,CS_E_transition_total,S23,True,2020,2022,2022,1767670.1681411068,1.767670168141107
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2010,2012,2012,5868508.257678205,5.868508257678205
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2012,2014,2014,2235747.783109343,2.235747783109343
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2014,2016,2016,2817531.61906989,2.8175316190698902
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2016,2018,2018,3580852.1661240305,3.5808521661240307
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2018,2020,2020,3302653.9762179367,3.3026539762179365
+4,Movers,AP,CS-exiters,CS_E_transition_total,S24,False,2020,2022,2022,2479085.4266386274,2.4790854266386275
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2010,2012,2012,2188325.661864564,2.188325661864564
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2012,2014,2014,1257995.8314956888,1.2579958314956887
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2014,2016,2016,555708.4316081242,0.5557084316081242
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2016,2018,2018,419024.01467019506,0.41902401467019507
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2018,2020,2020,338704.1813908432,0.3387041813908432
+4,Movers,AP,CS-stayers,CS_M_transition_total,S01,False,2020,2022,2022,482952.01134395105,0.48295201134395105
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2010,2012,2012,2188325.661864564,2.188325661864564
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2012,2014,2014,1257995.8314956888,1.2579958314956887
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2014,2016,2016,555708.4316081242,0.5557084316081242
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2016,2018,2018,419024.01467019506,0.41902401467019507
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2018,2020,2020,338704.1813908432,0.3387041813908432
+4,Movers,AP,CS-stayers,CS_M_transition_total,S02,False,2020,2022,2022,482952.01134395105,0.48295201134395105
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2010,2012,2012,2188325.661864564,2.188325661864564
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2012,2014,2014,1257995.8314956888,1.2579958314956887
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2014,2016,2016,555708.4316081242,0.5557084316081242
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2016,2018,2018,419024.01467019506,0.41902401467019507
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2018,2020,2020,338704.1813908432,0.3387041813908432
+4,Movers,AP,CS-stayers,CS_M_transition_total,S03,False,2020,2022,2022,482952.01134395105,0.48295201134395105
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2010,2012,2012,3896568.2722996883,3.8965682722996884
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2012,2014,2014,2402848.650860782,2.402848650860782
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2014,2016,2016,1126776.6389750633,1.1267766389750633
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2016,2018,2018,842368.3351193892,0.8423683351193892
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2018,2020,2020,685733.4972775169,0.6857334972775169
+4,Movers,AP,CS-stayers,CS_M_transition_total,S04,False,2020,2022,2022,958470.607681541,0.958470607681541
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2010,2012,2012,3896568.2722996883,3.8965682722996884
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2012,2014,2014,2402848.650860782,2.402848650860782
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2014,2016,2016,1126776.6389750633,1.1267766389750633
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2016,2018,2018,842368.3351193892,0.8423683351193892
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2018,2020,2020,685733.4972775169,0.6857334972775169
+4,Movers,AP,CS-stayers,CS_M_transition_total,S05,False,2020,2022,2022,958470.607681541,0.958470607681541
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2010,2012,2012,3896568.2722996883,3.8965682722996884
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2012,2014,2014,2402848.650860782,2.402848650860782
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2014,2016,2016,1126776.6389750633,1.1267766389750633
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2016,2018,2018,842368.3351193892,0.8423683351193892
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2018,2020,2020,685733.4972775169,0.6857334972775169
+4,Movers,AP,CS-stayers,CS_M_transition_total,S06,False,2020,2022,2022,958470.607681541,0.958470607681541
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2010,2012,2012,100646.9556760401,0.10064695567604011
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2012,2014,2014,40311.24850875355,0.040311248508753554
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2014,2016,2016,17205.34697710655,0.017205346977106552
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2016,2018,2018,16768.764732271535,0.016768764732271534
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2018,2020,2020,15275.252660433538,0.015275252660433537
+4,Movers,AP,CS-stayers,CS_M_transition_total,S19,False,2020,2022,2022,23662.186034394697,0.023662186034394697
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2010,2012,2012,100646.9556760401,0.10064695567604011
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2012,2014,2014,40311.24850875355,0.040311248508753554
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2014,2016,2016,17205.34697710655,0.017205346977106552
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2016,2018,2018,16768.764732271535,0.016768764732271534
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2018,2020,2020,15275.252660433538,0.015275252660433537
+4,Movers,AP,CS-stayers,CS_M_transition_total,S20,False,2020,2022,2022,23662.186034394697,0.023662186034394697
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2010,2012,2012,100646.9556760401,0.10064695567604011
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2012,2014,2014,40311.24850875355,0.040311248508753554
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2014,2016,2016,17205.34697710655,0.017205346977106552
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2016,2018,2018,16768.764732271535,0.016768764732271534
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2018,2020,2020,15275.252660433538,0.015275252660433537
+4,Movers,AP,CS-stayers,CS_M_transition_total,S21,False,2020,2022,2022,23662.186034394697,0.023662186034394697
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2010,2012,2012,2180784.02467872,2.18078402467872
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2012,2014,2014,1067156.4884092791,1.0671564884092792
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2014,2016,2016,455325.453779408,0.45532545377940803
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2016,2018,2018,335070.4787685434,0.3350704787685434
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2018,2020,2020,303559.3434889728,0.3035593434889728
+4,Movers,AP,CS-stayers,CS_M_transition_total,S22,False,2020,2022,2022,444778.55197195,0.44477855197195
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2010,2012,2012,2180784.02467872,2.18078402467872
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2012,2014,2014,1067156.4884092791,1.0671564884092792
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2014,2016,2016,455325.453779408,0.45532545377940803
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2016,2018,2018,335070.4787685434,0.3350704787685434
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2018,2020,2020,303559.3434889728,0.3035593434889728
+4,Movers,AP,CS-stayers,CS_M_transition_total,S23,True,2020,2022,2022,444778.55197195,0.44477855197195
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2010,2012,2012,2180784.02467872,2.18078402467872
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2012,2014,2014,1067156.4884092791,1.0671564884092792
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2014,2016,2016,455325.453779408,0.45532545377940803
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2016,2018,2018,335070.4787685434,0.3350704787685434
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2018,2020,2020,303559.3434889728,0.3035593434889728
+4,Movers,AP,CS-stayers,CS_M_transition_total,S24,False,2020,2022,2022,444778.55197195,0.44477855197195
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2010,2012,2012,5451902.027286036,5.451902027286036
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2012,2014,2014,4911482.920126144,4.911482920126144
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2014,2016,2016,9614593.381863855,9.614593381863855
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2016,2018,2018,7468437.890373556,7.468437890373556
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2018,2020,2020,10612706.674240177,10.612706674240178
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S01,False,2020,2022,2022,9720783.159591028,9.72078315959103
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2010,2012,2012,8907121.099712815,8.907121099712816
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2012,2014,2014,8146039.740993149,8.146039740993148
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2014,2016,2016,14780396.75087837,14.780396750878369
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2016,2018,2018,12650768.34133413,12.65076834133413
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2018,2020,2020,17077530.38535846,17.07753038535846
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S02,False,2020,2022,2022,14992558.949306997,14.992558949306996
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2010,2012,2012,12425166.024241585,12.425166024241586
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2012,2014,2014,11849638.045693338,11.849638045693338
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2014,2016,2016,20053493.384389225,20.053493384389224
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2016,2018,2018,18886075.605884977,18.886075605884976
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2018,2020,2020,24213335.14435435,24.21333514435435
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S03,False,2020,2022,2022,20607911.74813203,20.607911748132032
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2010,2012,2012,4321994.23220901,4.32199423220901
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2012,2014,2014,4315121.335123049,4.315121335123049
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2014,2016,2016,8818356.41973148,8.81835641973148
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2016,2018,2018,7305932.538304806,7.3059325383048055
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2018,2020,2020,10266469.616939588,10.266469616939588
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S04,False,2020,2022,2022,9395859.687554542,9.395859687554543
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2010,2012,2012,7777213.304635789,7.777213304635789
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2012,2014,2014,7549678.155990057,7.5496781559900565
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2014,2016,2016,13984159.788745994,13.984159788745993
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2016,2018,2018,12488262.989265382,12.488262989265383
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2018,2020,2020,16731293.32805787,16.73129332805787
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S05,False,2020,2022,2022,14667635.477270512,14.667635477270512
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2010,2012,2012,11295258.229164558,11.295258229164558
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2012,2014,2014,11253276.460690241,11.253276460690241
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2014,2016,2016,19257256.42225685,19.257256422256848
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2016,2018,2018,18723570.253816225,18.723570253816224
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2018,2020,2020,23867098.08705376,23.867098087053762
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S06,False,2020,2022,2022,20282988.276095547,20.282988276095548
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2010,2012,2012,2342758.504222973,2.3427585042229726
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2012,2014,2014,2891475.541668885,2.891475541668885
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2014,2016,2016,3241465.3507168447,3.2414653507168447
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2016,2018,2018,6126521.239838367,6.126521239838367
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2018,2020,2020,9526170.00409837,9.52617000409837
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S19,False,2020,2022,2022,7881180.725021186,7.881180725021187
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2010,2012,2012,5321489.930949664,5.321489930949664
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2012,2014,2014,6572740.1515674135,6.572740151567413
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2014,2016,2016,7323159.782912934,7.323159782912934
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2016,2018,2018,12781571.754349774,12.781571754349773
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2018,2020,2020,17371762.394871317,17.37176239487132
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S20,False,2020,2022,2022,13899940.984042456,13.899940984042457
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2010,2012,2012,9395160.026481137,9.395160026481136
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2012,2014,2014,11617145.33851522,11.61714533851522
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2014,2016,2016,12907996.68948764,12.90799668948764
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2016,2018,2018,21418263.15965429,21.41826315965429
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2018,2020,2020,26506693.959780898,26.506693959780897
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S21,False,2020,2022,2022,20735408.154691927,20.735408154691928
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2010,2012,2012,1582162.3363640076,1.5821623363640076
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2012,2014,2014,2406573.2634094716,2.4065732634094714
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2014,2016,2016,2749788.878263846,2.749788878263846
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2016,2018,2018,5930480.360419364,5.930480360419364
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2018,2020,2020,9145644.052656539,9.14564405265654
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S22,False,2020,2022,2022,7534898.070059736,7.534898070059736
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2010,2012,2012,4347396.563975628,4.347396563975629
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2012,2014,2014,6016329.789393391,6.016329789393391
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2014,2016,2016,6775176.185074341,6.775176185074341
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2016,2018,2018,12570502.197501965,12.570502197501964
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2018,2020,2020,16991236.44342948,16.991236443429482
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S23,True,2020,2022,2022,13553658.329081006,13.553658329081006
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2010,2012,2012,8324383.638249825,8.324383638249826
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2012,2014,2014,11053486.177051112,11.053486177051113
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2014,2016,2016,12360013.091649048,12.360013091649048
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2016,2018,2018,21207193.60280648,21.20719360280648
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2018,2020,2020,26126168.008339062,26.12616800833906
+4,Movers,RPO,CS-entrants,CS_N_transition_total,S24,False,2020,2022,2022,20389125.499730475,20.389125499730476
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2010,2012,2012,7353835.057696719,7.353835057696719
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2012,2014,2014,9746935.413915453,9.746935413915454
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2014,2016,2016,9325031.028912883,9.325031028912884
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2016,2018,2018,11362570.812674882,11.362570812674882
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2018,2020,2020,10007269.172096169,10.00726917209617
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S01,False,2020,2022,2022,12786887.54070693,12.78688754070693
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2010,2012,2012,12581747.380443746,12.581747380443746
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2012,2014,2014,15527437.506958092,15.527437506958092
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2014,2016,2016,14441523.236410994,14.441523236410994
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2016,2018,2018,17360235.981440835,17.360235981440834
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2018,2020,2020,15540577.74918436,15.540577749184362
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S02,False,2020,2022,2022,19208205.098483697,19.208205098483695
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2010,2012,2012,17300389.80157636,17.30038980157636
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2012,2014,2014,20970044.86318053,20.97004486318053
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2014,2016,2016,19489050.66105816,19.48905066105816
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2016,2018,2018,23379678.74822858,23.37967874822858
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2018,2020,2020,21449187.15323917,21.44918715323917
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S03,False,2020,2022,2022,25747774.10215518,25.74777410215518
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2010,2012,2012,4265636.909939427,4.265636909939427
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2012,2014,2014,7601214.524506395,7.6012145245063945
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2014,2016,2016,8059399.240470813,8.059399240470812
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2016,2018,2018,10382564.863253409,10.382564863253409
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2018,2020,2020,9414456.70596733,9.41445670596733
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S04,False,2020,2022,2022,12188233.788965574,12.188233788965574
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2010,2012,2012,9493549.232686456,9.493549232686457
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2012,2014,2014,13381716.617549036,13.381716617549035
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2014,2016,2016,13175891.447968926,13.175891447968926
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2016,2018,2018,16380230.032019358,16.38023003201936
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2018,2020,2020,14947765.283055522,14.94776528305552
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S05,False,2020,2022,2022,18609551.34674234,18.60955134674234
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2010,2012,2012,14212191.653819073,14.212191653819072
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2012,2014,2014,18824323.973771468,18.824323973771467
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2014,2016,2016,18223418.872616086,18.223418872616087
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2016,2018,2018,22399672.7988071,22.3996727988071
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2018,2020,2020,20856374.687110335,20.856374687110335
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S06,False,2020,2022,2022,25149120.350413818,25.149120350413817
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2010,2012,2012,2628476.7964198953,2.6284767964198954
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2012,2014,2014,2939510.5081616263,2.9395105081616264
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2014,2016,2016,2934343.052715072,2.934343052715072
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2016,2018,2018,3590352.12177665,3.5903521217766503
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2018,2020,2020,4883822.088309254,4.883822088309254
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S19,False,2020,2022,2022,7801834.097814988,7.8018340978149885
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2010,2012,2012,5931072.572664276,5.9310725726642755
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2012,2014,2014,6589389.484731701,6.589389484731702
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2014,2016,2016,6525750.959346004,6.525750959346004
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2016,2018,2018,8073817.958434655,8.073817958434656
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2018,2020,2020,10041640.728385493,10.041640728385493
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S20,False,2020,2022,2022,14229129.617436465,14.229129617436465
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2010,2012,2012,10305343.979683356,10.305343979683357
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2012,2014,2014,11531053.28279304,11.531053282793039
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2014,2016,2016,11374121.436741095,11.374121436741095
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2016,2018,2018,14190743.64142929,14.19074364142929
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2018,2020,2020,16677489.579282317,16.677489579282316
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S21,False,2020,2022,2022,21707969.711652204,21.707969711652204
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2010,2012,2012,770320.9282373058,0.7703209282373058
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2012,2014,2014,1503688.5402960968,1.5036885402960969
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2014,2016,2016,2102946.904413346,2.102946904413346
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2016,2018,2018,2980787.7894304404,2.9807877894304404
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2018,2020,2020,4441977.1809451375,4.441977180945138
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S22,False,2020,2022,2022,7324689.436553092,7.324689436553092
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2010,2012,2012,2639032.0691665895,2.6390320691665896
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2012,2014,2014,4756724.769458661,4.7567247694586605
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2014,2016,2016,5544021.876279947,5.544021876279947
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2016,2018,2018,7396894.138809077,7.396894138809078
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2018,2020,2020,9572266.438368347,9.572266438368347
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S23,True,2020,2022,2022,13751984.956174564,13.751984956174564
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2010,2012,2012,6452107.164160994,6.452107164160994
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2012,2014,2014,9519405.39636597,9.51940539636597
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2014,2016,2016,10377023.335101021,10.377023335101022
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2016,2018,2018,13513819.821803715,13.513819821803715
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2018,2020,2020,16208115.289265167,16.208115289265166
+4,Movers,RPO,CS-exiters,CS_E_transition_total,S24,False,2020,2022,2022,21230825.050390307,21.230825050390308
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2010,2012,2012,539842.4367340175,0.5398424367340174
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2012,2014,2014,1388188.430153838,1.3881884301538379
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2014,2016,2016,1921982.424583091,1.921982424583091
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2016,2018,2018,3847781.5955863455,3.8477815955863455
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2018,2020,2020,3632821.245921976,3.632821245921976
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S01,False,2020,2022,2022,5695587.827179119,5.695587827179119
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2010,2012,2012,936661.0212427722,0.9366610212427722
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2012,2014,2014,2246410.7616084595,2.2464107616084594
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2014,2016,2016,2946360.2590418453,2.946360259041845
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2016,2018,2018,5708943.082049129,5.708943082049129
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2018,2020,2020,5331945.539924339,5.331945539924339
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S02,False,2020,2022,2022,7994492.110045005,7.994492110045004
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2010,2012,2012,1385706.4164618237,1.3857064164618238
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2012,2014,2014,3102589.7214883314,3.1025897214883313
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2014,2016,2016,3943241.6917046267,3.9432416917046265
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2016,2018,2018,7433227.690195522,7.4332276901955225
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2018,2020,2020,6941811.773381533,6.941811773381533
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S03,False,2020,2022,2022,10101765.751857717,10.101765751857716
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2010,2012,2012,413738.9604689518,0.4137389604689518
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2012,2014,2014,1106563.608225608,1.106563608225608
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2014,2016,2016,1683439.7856655172,1.6834397856655172
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2016,2018,2018,3504002.6045799702,3.5040026045799704
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2018,2020,2020,3381642.5105562764,3.3816425105562766
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S04,False,2020,2022,2022,5334007.492432443,5.334007492432443
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2010,2012,2012,810557.5449777067,0.8105575449777067
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2012,2014,2014,1964785.9396802303,1.9647859396802303
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2014,2016,2016,2707817.620124272,2.707817620124272
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2016,2018,2018,5365164.091042753,5.365164091042753
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2018,2020,2020,5080766.80455864,5.080766804558641
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S05,False,2020,2022,2022,7632911.775298329,7.632911775298329
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2010,2012,2012,1259602.9401967581,1.2596029401967581
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2012,2014,2014,2820964.899560102,2.820964899560102
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2014,2016,2016,3704699.0527870534,3.7046990527870536
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2016,2018,2018,7089448.699189146,7.089448699189146
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2018,2020,2020,6690633.038015834,6.690633038015834
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S06,False,2020,2022,2022,9740185.41711104,9.74018541711104
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2010,2012,2012,422799.757995174,0.422799757995174
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2012,2014,2014,519196.26196426887,0.5191962619642688
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2014,2016,2016,550622.4140410888,0.5506224140410888
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2016,2018,2018,956498.7306353983,0.9564987306353983
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2018,2020,2020,1322595.4745078324,1.3225954745078323
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S19,False,2020,2022,2022,2239803.277905341,2.2398032779053407
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2010,2012,2012,938903.2563557632,0.9389032563557632
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2012,2014,2014,1168212.2010396111,1.1682122010396112
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2014,2016,2016,1227114.9201958603,1.2271149201958602
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2016,2018,2018,2002917.5162235666,2.0029175162235666
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2018,2020,2020,2480512.1438662247,2.4805121438662248
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S20,False,2020,2022,2022,3981360.188348407,3.981360188348407
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2010,2012,2012,1628721.2166831712,1.6287212166831713
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2012,2014,2014,2050328.1138960333,2.0503281138960334
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2014,2016,2016,2142592.4057936254,2.1425924057936254
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2016,2018,2018,3363499.4576991233,3.3634994576991235
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2018,2020,2020,3868480.0655001537,3.8684800655001537
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S21,False,2020,2022,2022,5971032.327082341,5.971032327082341
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2010,2012,2012,176831.45979637292,0.1768314597963729
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2012,2014,2014,340888.16321417794,0.3408881632141779
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2014,2016,2016,401755.02030977176,0.4017550203097718
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2016,2018,2018,739798.9740548853,0.7397989740548854
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2018,2020,2020,1133702.9637765796,1.1337029637765796
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S22,False,2020,2022,2022,1951061.1541988268,1.9510611541988268
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2010,2012,2012,581645.0501765086,0.5816450501765086
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2012,2014,2014,940641.6121208066,0.9406416121208065
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2014,2016,2016,1053545.436544302,1.053545436544302
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2016,2018,2018,1765011.6405109484,1.7650116405109484
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2018,2020,2020,2282675.094676696,2.282675094676696
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S23,True,2020,2022,2022,3692618.0646418924,3.6926180646418922
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2010,2012,2012,1254346.60419588,1.25434660419588
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2012,2014,2014,1801898.1446654731,1.8018981446654732
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2014,2016,2016,1966887.9961244669,1.966887996124467
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2016,2018,2018,3125593.5819865046,3.1255935819865046
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2018,2020,2020,3670643.0163106252,3.6706430163106254
+4,Movers,RPO,CS-stayers,CS_M_transition_total,S24,False,2020,2022,2022,5682290.203375826,5.682290203375826

@@ -1,0 +1,63 @@
+region,spec_id,scenario,province,year,H_AP
+Central,S23,LSD,Anhui Province,2050,0.0021199789357977
+Eastern,S23,LSD,Beijing Municipality,2050,7.220833928116451e-07
+Western,S23,LSD,Chongqing Municipality,2050,0.0001488167463926
+Eastern,S23,LSD,Fujian Province,2050,2.957624862731866e-05
+Western,S23,LSD,Gansu Province,2050,0.0004457574251289
+Eastern,S23,LSD,Guangdong Province,2050,6.481008056593174e-06
+Western,S23,LSD,Guangxi Zhuang Autonomous Region,2050,0.0038917265142764
+Western,S23,LSD,Guizhou Province,2050,0.0142782646933697
+Eastern,S23,LSD,Hainan Province,2050,0.0004062934468402
+Eastern,S23,LSD,Hebei Province,2050,3.6404121854719666e-05
+Central,S23,LSD,Heilongjiang Province,2050,3.957020388853549e-05
+Central,S23,LSD,Henan Province,2050,0.000130896123537
+Central,S23,LSD,Hubei Province,2050,0.0004401215068421
+Central,S23,LSD,Hunan Province,2050,0.000115187555566
+Western,S23,LSD,Inner Mongolia Autonomous Region,2050,1.334035510895241e-05
+Eastern,S23,LSD,Jiangsu Province,2050,9.992165999852368e-07
+Central,S23,LSD,Jiangxi Province,2050,0.0015175925247475
+Central,S23,LSD,Jilin Province,2050,1.8783676010282508e-05
+Eastern,S23,LSD,Liaoning Province,2050,3.4784773062032174e-08
+Western,S23,LSD,Ningxia Hui Autonomous Region,2050,0.0005335593408836
+Western,S23,LSD,Qinghai Province,2050,0.0001266809455964
+Western,S23,LSD,Shaanxi Province,2050,4.7322176679614595e-06
+Eastern,S23,LSD,Shandong Province,2050,6.03202006347632e-06
+Eastern,S23,LSD,Shanghai Municipality,2050,3.0522489670783532e-09
+Central,S23,LSD,Shanxi Province,2050,4.186142506371358e-06
+Western,S23,LSD,Sichuan Province,2050,0.0001460626688061
+Eastern,S23,LSD,Tianjin Municipality,2050,1.1589759134612082e-08
+Western,S23,LSD,Tibet Autonomous Region,2050,0.0052846011574894
+Western,S23,LSD,Xinjiang Uygur Autonomous Region,2050,0.0014933051155405
+Western,S23,LSD,Yunnan Province,2050,0.0108160051425736
+Eastern,S23,LSD,Zhejiang Province,2050,3.039466707461835e-07
+Central,S23,LSD,Anhui Province,2100,0.0019572580226618
+Eastern,S23,LSD,Beijing Municipality,2100,1.9061096738372153e-06
+Western,S23,LSD,Chongqing Municipality,2100,0.0001187461666862
+Eastern,S23,LSD,Fujian Province,2100,2.6868589697977404e-05
+Western,S23,LSD,Gansu Province,2100,3.9863273628016695e-06
+Eastern,S23,LSD,Guangdong Province,2100,2.7567488623934813e-05
+Western,S23,LSD,Guangxi Zhuang Autonomous Region,2100,0.012212939660639
+Western,S23,LSD,Guizhou Province,2100,0.0536375219797349
+Eastern,S23,LSD,Hainan Province,2100,0.0002618912490719
+Eastern,S23,LSD,Hebei Province,2100,1.7301572275955452e-06
+Central,S23,LSD,Heilongjiang Province,2100,3.655851723756353e-07
+Central,S23,LSD,Henan Province,2100,3.8832508790247025e-05
+Central,S23,LSD,Hubei Province,2100,0.0003757127352711
+Central,S23,LSD,Hunan Province,2100,5.182729102913533e-05
+Western,S23,LSD,Inner Mongolia Autonomous Region,2100,1.6475905074336953e-05
+Eastern,S23,LSD,Jiangsu Province,2100,7.996755238831539e-06
+Central,S23,LSD,Jiangxi Province,2100,0.0021712302491075
+Central,S23,LSD,Jilin Province,2100,1.0858684039441525e-05
+Eastern,S23,LSD,Liaoning Province,2100,4.741474275111297e-08
+Western,S23,LSD,Ningxia Hui Autonomous Region,2100,0.0001288710475934
+Western,S23,LSD,Qinghai Province,2100,1.2488995051471803e-05
+Western,S23,LSD,Shaanxi Province,2100,3.228672882479753e-06
+Eastern,S23,LSD,Shandong Province,2100,1.7929198367911624e-06
+Eastern,S23,LSD,Shanghai Municipality,2100,5.631300318218882e-09
+Central,S23,LSD,Shanxi Province,2100,1.4505117418979837e-08
+Western,S23,LSD,Sichuan Province,2100,8.56984539449414e-05
+Eastern,S23,LSD,Tianjin Municipality,2100,7.993118449482084e-08
+Western,S23,LSD,Tibet Autonomous Region,2100,0.0005336239573178
+Western,S23,LSD,Xinjiang Uygur Autonomous Region,2100,0.0002031216813412
+Western,S23,LSD,Yunnan Province,2100,0.0123249260864384
+Eastern,S23,LSD,Zhejiang Province,2100,4.146245342630909e-09
